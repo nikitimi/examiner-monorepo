@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "Monorepo services for reviewer application.",
   "scripts": {
-    "create:catalog": "pnpx codemod pnpm/catalog"
+    "create:catalog": "pnpx codemod pnpm/catalog",
+    "dev:nextjs": "cd packages/nextjs && pnpm run dev",
+    "build:nextjs": "cd packages/nextjs && pnpm run build",
+    "start:nextjs": "cd packages/nextjs && pnpm run start",
+    "deploy:nextjs": "cd packages/nextjs && vercel deploy"
   },
   "keywords": [
     "nodejs",
