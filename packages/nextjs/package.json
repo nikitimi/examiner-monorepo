@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "catalog:next-canary"
+    "next": "catalog:next-stable"
   },
   "devDependencies": {
     "@types/node": "catalog:",
