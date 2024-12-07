@@ -7,6 +7,7 @@
     "dev:nextjs": "cd packages/nextjs && pnpm run dev",
     "build:nextjs": "cd packages/nextjs && pnpm run build",
     "start:nextjs": "cd packages/nextjs && pnpm run start",
+    "lint:nextjs": "cd packages/nextjs && pnpm run lint",
     "deploy:nextjs": "cd packages/nextjs && vercel deploy"
   },
   "keywords": [
