@@ -1,3 +1,6 @@
 {
-  "extends": ["packages/nextjs/tsconfig.json"]
+  "compilerOptions": {
+    "module": "Preserve"
+  },
+  "extends": ["./packages/nextjs/tsconfig.json"]
 }

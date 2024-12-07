@@ -1,7 +1,8 @@
 {
   "name": "examiner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Monorepo services for reviewer application.",
+  "type": "module",
   "scripts": {
     "create:catalog": "pnpx codemod pnpm/catalog",
     "dev:nextjs": "cd packages/nextjs && pnpm run dev",
