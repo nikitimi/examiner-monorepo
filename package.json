@@ -1,0 +1,15 @@
+{
+  "name": "examiner",
+  "version": "0.0.1",
+  "description": "Monorepo services for reviewer application.",
+  "scripts": {
+    "create:catalog": "pnpx codemod pnpm/catalog"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "monorepo"
+  ],
+  "author": "nikitimi",
+  "license": "MIT"
+}

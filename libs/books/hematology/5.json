@@ -1,0 +1,181 @@
+{
+  "author": "Robert R. Harr",
+  "data": [
+    {
+      "chapter": "1.5",
+      "questions": [
+        {
+          "data": [
+            {
+              "choices": [
+                "Splenic infarctions",
+                "Dactylitis",
+                "Hemolytic anemia",
+                "Giant PLTs"
+              ],
+              "correctAnswer": {
+                "answer": "Hemolytic anemia",
+                "explanation": "Occasionally patients with infectious mononucleosis develop a potent cold agglutinin with anti-I specificity. This cold autoantibody can cause strong hemolysis and hemolytic anemia."
+              },
+              "question": "Which of the following is an unusual complication that may occur in infectious mononucleosis?",
+              "reference": "Hematology/Evaluate laboratory data to recognize health and disease states/Infectious mononucleosis/2"
+            },
+            {
+              "choices": [
+                "Shift to the left in WBCs",
+                "Target cells",
+                "Reactive lymphocytes",
+                "Pelgeroid cells"
+              ],
+              "correctAnswer": {
+                "answer": "Reactive lymphocytes",
+                "explanation": "HIV infection brings about several hematological abnormalities seen on peripheral blood smear examination; most patients demonstrate reactive lymphocytes and have granulocytopenia."
+              },
+              "question": "In a patient with HIV infection, one should expect to see:",
+              "reference": "Hematology/Evaluate laboratory data to recognize health and disease states/HIV/Microscopic morphology/1"
+            },
+            {
+              "choices": [
+                "Döhle bodies",
+                "Basophilic stippling",
+                "Malarial parasites",
+                "Howell–Jolly bodies"
+              ],
+              "correctAnswer": {
+                "answer": "Döhle bodies",
+                "explanation": "Döhle bodies are RNA-rich areas within polymorphonuclear neutrophils (PMNs) that are oval and light blue. Although often associated with infectious states, they are seen in a wide range of conditions and toxic reactions, including hemolytic and pernicious anemias, chronic granulocytic leukemia, and therapy with antineoplastic drugs. The other inclusions are associated with erythrocytes."
+              },
+              "question": "Which inclusions may be seen in leukocytes?",
+              "reference": "Hematology/Apply knowledge of fundamental characteristics/WBC inclusions/1"
+            },
+            {
+              "choices": [
+                "Lactoferrin",
+                "Myeloperoxidase",
+                "Histamine",
+                "Alkaline phosphatase"
+              ],
+              "correctAnswer": {
+                "answer": "Myeloperoxidase",
+                "explanation": "Myeloperoxidase, lysozyme, and acid phosphatase are enzymes that are contained in the primary granules of neutrophils. The contents of secondary and tertiary granules include lactoferrin, collagenase, NADPH oxidase, and alkaline phosphatase."
+              },
+              "question": "Which of the following is contained in the primary granules of the neutrophil?",
+              "reference": "Hematology/Apply knowledge of fundamental biological characteristics/WBC kinetics/2"
+            },
+            {
+              "choices": ["1%–6%", "27%–33%", "35%–58%", "50%–70%"],
+              "correctAnswer": {
+                "answer": "50%–70%",
+                "explanation": "The mean relative lymphocyte percentage for a 1-year-old child is 61% compared with the mean lymphocyte percentage of 35% in an adult."
+              },
+              "question": "What is the typical reference range for relative lymphocyte percentage in the peripheral blood smear from a 1-year-old child?",
+              "reference": "Hematology/Evaluate laboratory data to recognize health and disease states/Differential normal values/2"
+            },
+            {
+              "choices": [
+                "Neutrophilia",
+                "Pelgeroid hyposegmentation",
+                "Toxic granulation",
+                "Vacuolization"
+              ],
+              "correctAnswer": {
+                "answer": "Pelgeroid hyposegmentation",
+                "explanation": "Neutrophil changes associated with infection may include neutrophilia, shift to the left, toxic granulation, Döhle bodies, and vacuolization. Pelgeroid hyposegmentation is noted in neutrophils from individuals with congenital Pelger–Huët anomaly and those with an acquired anomaly induced by drug ingestion or secondary to certain conditions, such as leukemia."
+              },
+              "question": "Qualitative and quantitative neutrophil changes noted in response to infection include all of the following except:",
+              "reference": "Hematology/Apply knowledge of fundamental biological characteristics/WBC microscopic morphology/2"
+            },
+            {
+              "choices": [
+                "Less than 1.5 × 109/L",
+                "Less than 5.0 × 109/L",
+                "Less than 10.0 × 109/L",
+                "Less than 15.0 × 109/L"
+              ],
+              "correctAnswer": {
+                "answer": "Less than 1.5 × 109/L",
+                "explanation": "Neutropenia is defined as an absolute decrease in the number of circulating neutrophils. This condition is present in patients having neutrophil counts of less than 1.5 × 10<sup>9</sup>/L."
+              },
+              "question": "Neutropenia is present in patients with which absolute neutrophil count?",
+              "reference": "Hematology/Evaluate laboratory data to recognize health and disease states/Differential normal values/2"
+            },
+            {
+              "choices": [
+                "Pale blue cytoplasmic inclusions",
+                "Giant lysosomal granules",
+                "Small, dark-staining granules and condensed nuclei",
+                "Nuclear hyposegmentation"
+              ],
+              "correctAnswer": {
+                "answer": "Giant lysosomal granules",
+                "explanation": "Chédiak–Higashi syndrome is a disorder of neutrophil phagocytic dysfunction caused by depressed chemotaxis and delayed degranulation. The degranulation disturbance is attributed to interference from the giant lysosomal granules characteristic of this disorder."
+              },
+              "question": "The morphological characteristic(s) associated with Chédiak–Higashi syndrome is (are):",
+              "reference": "Hematology/Recognize morphological changes associated with diseases/WBC inclusions/2"
+            },
+            {
+              "choices": [
+                "Infectious mononucleosis",
+                "May–Hegglin anomaly",
+                "A shift-to-the-left increase in immature granulocytes",
+                "G6PD deficiency"
+              ],
+              "correctAnswer": {
+                "answer": "A shift-to-the-left increase in immature granulocytes",
+                "explanation": "Pelger–Huët anomaly is a benign familial condition reported in 1 out of 6,000 individuals. Care must be taken to differentiate Pelger–Huët cells from the numerous band neutrophils and metamyelocytes that may be observed during severe infection or a shift-to-the-left of immaturity in granulocyte stages."
+              },
+              "question": "The familial condition of Pelger–Huët anomaly is important to recognize because this disorder must be differentiated from:",
+              "reference": "Hematology/Recognize morphological changes associated with diseases/WBC inclusions/2"
+            },
+            {
+              "choices": [
+                "Heterophile antibody: positive",
+                "Epstein–Barr virus (EBV)–immunoglobulin M (IgM): positive",
+                "Direct antiglobulin test (DAT): positive",
+                "CMV–IgM: positive"
+              ],
+              "correctAnswer": {
+                "answer": "CMV–IgM: positive",
+                "explanation": "If both the heterophile antibody test and the EBV-IgM tests yield negative results in a patient with reactive lymphocytosis and a suspected viral infection, serum should be analyzed for IgM antibodies to CMV. CMV infection is the most common cause of heterophile-negative infectious mononucleosis."
+              },
+              "question": "SITUATION: A differential shows reactive lymphocytes, and the physician suspects that a viral infection is the cause. What is the expected laboratory finding in a patient with a cytomegalovirus (CMV) infection?",
+              "reference": "Hematology/Evaluate laboratory data to recognize health and disease states/Differentials/2"
+            },
+            {
+              "choices": [
+                "Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and superoxide anion (O<sub>2</sub>–)",
+                "Lactoferrin and NADPH oxidase",
+                "Cytochrome b and collagenase",
+                "Alkaline phosphatase and ascorbic acid"
+              ],
+              "correctAnswer": {
+                "answer": "Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and superoxide anion (O<sub>2</sub>–)",
+                "explanation": "The biochemical products of the respiratory burst involved in neutrophil particle ingestion during phagocytosis are H<sub>2</sub>O<sub>2</sub> and O<sub>2</sub>–. The activated neutrophil discharges the enzyme NADPH oxidase into the phagolysosome, where it converts O<sub>2</sub> to O<sub>2</sub>–, which is then reduced to H<sub>2</sub>O<sub>2</sub>. "
+              },
+              "question": "Neutrophil phagocytosis and particle ingestion are associated with an increase in O2 utilization called respiratory burst. What are the two most important products of this biochemical reaction?",
+              "reference": "Hematology/Apply knowledge of fundamental biological characteristics/WBC kinetics/2"
+            },
+            {
+              "choices": [
+                "High nuclear:cytoplasmic (N:C) ratio",
+                "Prominent nucleoli",
+                "Basophilic cytoplasm",
+                "All of these options"
+              ],
+              "correctAnswer": {
+                "answer": "All of these options",
+                "explanation": "Both reactive lymphocytes and blasts may have basophilic cytoplasm, a high N:C ratio, and the presence of prominent nucleoli. Blasts, however, have an extremely fine nuclear chromatin staining pattern as viewed on a Wright– and Giemsa–stained smear."
+              },
+              "question": "Which of the morphological findings are characteristic of reactive lymphocytes?",
+              "reference": "Hematology/Recognize morphological changes associated with diseases/WBC morphology/2"
+            }
+          ],
+          "type": "MULTIPLE_CHOICE"
+        }
+      ],
+      "topic": "Qualitative and Quantitative White Blood Cell Disorders"
+    }
+  ],
+  "edition": "5th",
+  "title": "Medical Laboratory Science Review"
+}

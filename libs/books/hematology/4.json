@@ -1,0 +1,158 @@
+{
+  "author": "Robert R. Harr",
+  "data": [
+    {
+      "chapter": "1.4",
+      "questions": [
+        {
+          "data": [
+            {
+              "choices": [
+                "Normocytic, normochromic",
+                "Microcytic, normochromic",
+                "Macrocytic, hypochromic",
+                "Macrocytic, normochromic"
+              ],
+              "correctAnswer": {
+                "answer": "Macrocytic, normochromic",
+                "explanation": "Megaloblastic anemia is macrocytic normochromic because there is no defect in Hgb synthesis. These anemias comprise a group of asynchronized anemias characterized by defective nuclear maturation resulting from defective DNA synthesis. This abnormality accounts for the megaloblastic features in bone marrow and macrocytosis in peripheral blood."
+              },
+              "question": "Which morphological classification is characteristic of megaloblastic anemia?",
+              "reference": "Hematology/Correlate clinical and laboratory data/Microscopic morphology/RBCs/2"
+            },
+            {
+              "choices": [
+                "Tropical sprue",
+                "Transcobalamin deficiency",
+                "Blind loop syndrome",
+                "Pernicious anemia"
+              ],
+              "correctAnswer": {
+                "answer": "Pernicious anemia",
+                "explanation": "Pernicious anemia is caused by lack of intrinsic factor, which prevents vitamin B12 absorption."
+              },
+              "question": "Which anemia is characterized by lack of intrinsic factor that prevents B12 absorption?",
+              "reference": "Hematology/Evaluate laboratory data to recognize health and disease states/2"
+            },
+            {
+              "choices": [
+                "Pancytopenia",
+                "Elevated reticulocyte count",
+                "Hypersegmented neutrophils",
+                "Macrocytic erythrocyte indices"
+              ],
+              "correctAnswer": {
+                "answer": "Elevated reticulocyte count",
+                "explanation": "Megaloblastic anemias are associated with ineffective erythropoiesis and, therefore, a decrease in the reticulocyte count."
+              },
+              "question": "All of the following are characteristics of megaloblastic anemia except:",
+              "reference": "Hematology/Correlate clinical and laboratory data/Anemia/Megaloblastic/2"
+            },
+            {
+              "choices": [
+                "An improvement in neurological problems",
+                "An improvement in hematological abnormalities",
+                "No expected improvement",
+                "Toxicity of the liver and kidneys"
+              ],
+              "correctAnswer": {
+                "answer": "An improvement in hematological abnormalities",
+                "explanation": "Administration of folic acid to a patient with vitamin B12 deficiency will correct the hematological abnormalities, but the neurological problems will persist. This helps confirm the correct diagnosis of vitamin B12 deficiency."
+              },
+              "question": "A patient with a vitamin B12 anemia is prescribed a high dosage of folate. Which of thefollowing is expected as a result of this treatment?",
+              "reference": "Hematology/Select course of action/Anemia/Therapy/3"
+            },
+            {
+              "choices": [
+                "G6PD deficiency",
+                "Liver disease",
+                "Hgb C disease",
+                "Megaloblastic anemia"
+              ],
+              "correctAnswer": {
+                "answer": "Megaloblastic anemia",
+                "explanation": "Ineffective erythropoiesis is caused by destruction of erythroid precursor cells prior to their release from bone marrow. Pernicious anemia results from defective DNA synthesis; it is suggested that the asynchronous development of RBCs renders them more prone to intramedullary destruction."
+              },
+              "question": "Which of the following disorders is associated with ineffective erythropoiesis?",
+              "reference": "Hematology/Evaluate laboratory data to recognize health and disease states/RBC physiology/2"
+            },
+            {
+              "choices": [
+                "RBC = 2.5 × 1012/L; WBC = 12,500/μL (12.5 × 109/L); PLT = 250,000/μL (250 × 109/L)",
+                "RBC = 4.5 × 1012/L; WBC = 6,500/μL (6.5 × 109/L); PLT = 150,000/μL (150 × 109/L)",
+                "RBC = 3.0 × 1012/L; WBC = 5,000/μL (5.0 × 109/L); PLT = 750,000/μL (750 × 109/L)",
+                "RBC = 2.5 × 1012/L; WBC = 2,500/μL (2.5 × 109/L); PLT = 50,000/μL (50 × 109/L)"
+              ],
+              "correctAnswer": {
+                "answer": "RBC = 2.5 × 1012/L; WBC = 2,500/μL (2.5 × 109/L); PLT = 50,000/μL (50 × 109/L)",
+                "explanation": "Patients with pernicious anemia demonstrate pancytopenia with low WBC, PLT, and RBC counts. Because this is a megaloblastic process and a DNA maturation defect, all cell lines are affected. In bone marrow, this results in abnormally large precursor cells, maturation asynchrony, hyperplasia of all cell lines, and a low M:E ratio."
+              },
+              "question": "A 50-year-old patient is suffering from pernicious anemia. Which of the following laboratory data are most likely for this patient?",
+              "reference": "Hematology/Correlate clinical and laboratory data/Anemias/2"
+            },
+            {
+              "choices": [
+                "Schistocytes",
+                "Macrocytes",
+                "Howell–Jolly bodies",
+                "Microcytes"
+              ],
+              "correctAnswer": {
+                "answer": "Macrocytes",
+                "explanation": "Patients with obstructive liver disease may have macrocytes on their peripheral blood smear because of an increased tendency toward deposition of lipid on the surface of RBCs. Consequently, the RBCs are larger or more macrocytic than normal RBCs."
+              },
+              "question": "Which of the following may be seen in the peripheral blood smear from a patient with obstructive liver disease?",
+              "reference": "Hematology/Apply principles of basic laboratory procedures/Microscopic morphology/2"
+            },
+            {
+              "choices": [
+                "Crescent shaped",
+                "Teardrop shaped",
+                "Oval shaped",
+                "Pencil shaped"
+              ],
+              "correctAnswer": {
+                "answer": "Oval shaped",
+                "explanation": "Macrocytes in true megaloblastic conditions are oval, as opposed to the round shape of macrocytes usually seen in alcoholism and obstructive liver disease."
+              },
+              "question": "The macrocytes typically seen in megaloblastic processes are:",
+              "reference": "Hematology/Apply principles of basic laboratory procedures/Microscopic morphology/Differentials/2"
+            },
+            {
+              "choices": [
+                "MCV 99 fL, MCH 28 pg, MCHC 31%",
+                "MCV 62 fL, MCH 27 pg, MCHC 30%",
+                "MCV 125 fL, MCH 36 pg, MCHC 34%",
+                "MCV 78 fL, MCH 23 pg, MCHC 30%"
+              ],
+              "correctAnswer": {
+                "answer": "MCV 125 fL, MCH 36 pg, MCHC 34%",
+                "explanation": "The RBC indices in a patient with megaloblastic anemia are macrocytic and normochromic. The macrocytosis is prominent, with MCV ranging from 100 to 130 fL."
+              },
+              "question": "Which of the following are most characteristic of the RBC indices associated with megaloblastic anemias?",
+              "reference": "Hematology/Correlate clinical and laboratory data/Megaloblastic anemia/2"
+            },
+            {
+              "choices": [
+                "Increased PLTs",
+                "Increased MCV",
+                "Increased Hct",
+                "Increased RBC count"
+              ],
+              "correctAnswer": {
+                "answer": "Increased MCV",
+                "explanation": "The patient will have increased MCV. One of the causes of a macrocytic anemia that is not megaloblastic is increased reticulocyte count, here noted as increased polychromasia. Reticulocytes are polychromatic macrocytes; therefore, MCV is slightly increased."
+              },
+              "question": "A patient has 80 NRBCs per 100 leukocytes. In addition to increased polychromasia on the peripheral blood smear, what other finding may be present on the CBC?",
+              "reference": "Hematology/Correlate clinical and laboratory data/Megaloblastic anemia/2"
+            }
+          ],
+          "type": "MULTIPLE_CHOICE"
+        }
+      ],
+      "topic": "Macrocytic and Normochromic Anemias"
+    }
+  ],
+  "edition": "5th",
+  "title": "Medical Laboratory Science Review"
+}

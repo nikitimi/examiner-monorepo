@@ -1,0 +1,396 @@
+{
+  "author": "Robert R. Harr",
+  "data": [
+    {
+      "chapter": "8.3",
+      "questions": [
+        {
+          "data": [
+            {
+              "choices": [
+                "Catalase, decarboxylation of arginine, growth on blood agar",
+                "Motility, urease, morphology on blood agar",
+                "Oxidase, TSI, nitrate reduction, growth on MacConkey agar",
+                "Oxidase, indole, and growth on blood agar"
+              ],
+              "correctAnswer": {
+                "answer": "Oxidase, TSI, nitrate reduction, growth on MacConkey agar",
+                "explanation": "NFB will grow on the slant of TSI or KIA, but they do not acidify the butt (glucose fermentation), as do the Enterobacteriaceae. NFB can be cytochrome oxidase positive or negative, but all the Enterobacteriaceae species, except Plesiomonas shigelloides, are oxidase negative. Enterobacteriaceae species grow well on MacConkey agar and reduce nitrate to nitrite, but NFB grow poorly or not at all on MacConkey and most do not reduce nitrate. Nearly 70% of NFB recovered from clinical specimens are strains of P. aeruginosa, Acinetobacter spp., or Stenotrophomonas maltophilia"
+              },
+              "question": "What are the most appropriate screening tests to presumptively differentiate and identify the nonfermentative gram-negative bacilli (NFB) from the Enterobacteriaceae species?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Oxidase, oxidation–fermentation (OF) glucose (open), OF glucose (sealed), motility, pigment production",
+                "Growth on blood agar plate (BAP) and eosin–methylene blue (EMB) agars, lysine decarboxylation, catalase",
+                "Growth on MacConkey, EMB, and XLD agars and motility",
+                "Growth on mannitol salt agar and flagellar stain"
+              ],
+              "correctAnswer": {
+                "answer": "Oxidase, oxidation–fermentation (OF) glucose (open), OF glucose (sealed), motility, pigment production",
+                "explanation": "The use of OF tubes helps to determine the presumption of a nonfermentative bacillus (glucose oxidation positive and glucose fermentation negative). The positive cytochrome oxidase test and pigment production indicate a possible Pseudomonas species. Several NFB produce pigments that aid in species identification: P. aeruginosa produces yellow pyoverdins (fluorescein) and/or pyocyanin (blue aqua pigment). The characteristic grapelike odor of aminoacetophenone and growth at 42°C are characteristic of P. aeruginosa"
+              },
+              "question": "Presumptive tests used for identification of the Pseudomonas spp. are:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Oxidase, motility, pyoverdin",
+                "Oxidase, motility, lactose",
+                "Oxidase, ONPG, DNase",
+                "Mannitol, nitrate reduction, growth at 42°C"
+              ],
+              "correctAnswer": {
+                "answer": "Mannitol, nitrate reduction, growth at 42°C",
+                "explanation": "Both organisms are oxidase positive, motile, and produce pyoverdin. Both are negative for ONPG and DNase. The differentiating tests are: Test P. aeruginosa P. putida Mannitol + Neg Reduction of + Neg nitrate to nitrite 42°C growth + Ne"
+              },
+              "question": "Which tests are most appropriate to differentiate between Pseudomonas aeruginosa and Pseudomonas putida?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Oxidase, motility, nitrate reduction",
+                "MacConkey growth, 37°C growth, catalase",
+                "Blood agar growth, oxidase, catalase",
+                "Oxidase, TSI, MacConkey growth"
+              ],
+              "correctAnswer": {
+                "answer": "Oxidase, motility, nitrate reduction",
+                "explanation": "Acinetobacter spp. are nonmotile rods, which appear as coccobacillary forms in clinical specimens. All are oxidase negative and catalase positive. P. aeruginosa reduces nitrate to nitrite, whereas Acinetobacter spp. do not. The genus Acinetobacter is divided into two groups: saccharolytic or glucose-oxidizing species and asaccharolytic or nonglucose species"
+              },
+              "question": "Which test group best differentiates Acinetobacter spp. from P. aeruginosa?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Triple sugar iron agar",
+                "Oxidase",
+                "Urease",
+                "Flagellar stain"
+              ],
+              "correctAnswer": {
+                "answer": "Oxidase",
+                "explanation": "The two genera, Acinetobacter and Alcaligenes, are very similar. Both use oxidation for the metabolism of carbohydrate, with some strains being nonsaccharolytic. Both grow well on MacConkey agar. However, Acinetobacter is nonmotile and oxidase negative. Alcaligenes is motile by peritrichous flagella and oxidase positive"
+              },
+              "question": "In addition to motility, which test best differentiates Acinetobacter spp. and Alcaligenes faecalis?",
+              "reference": "Microbiology/Select methods/Reagents/Media/NFB/Identification/2"
+            },
+            {
+              "choices": [
+                "Oxidase, catalase, and TSI",
+                "Oxidase, catalase, and ONPG",
+                "Oxidase, 42°C growth, and polar tuft of flagella",
+                "Catalase, TSI, and pigment"
+              ],
+              "correctAnswer": {
+                "answer": "Oxidase, 42°C growth, and polar tuft of flagella",
+                "explanation": "The two genera, Pseudomonas and Stenotrophomonas, are motile and grow well on MacConkey agar. However, P. aeruginosa is oxidase positive and grows at 42°C but is motile only by polar monotrichous flagella. S. maltophilia is oxidase negative, does not grow at 42°C, and is motile by a polar tuft of flagella"
+              },
+              "question": "The most noted differences between P. aeruginosa and Stenotrophomonas maltophilia are:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Pseudomonas fluorescens",
+                "Pseudomonas aeruginosa",
+                "Pseudomonas putida",
+                "Burkholderia pseudomallei"
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas aeruginosa",
+                "explanation": "P. aeruginosa is often recovered from the respiratory secretions of patients with CF. If the patient is chronically infected with the mucoid strain of P. aeruginosa, the biochemical identification is very difficult. The mucoid strain results from production of large amounts of alginate, a polysaccharide that surrounds the cell"
+              },
+              "question": "Which nonfermentative bacillus is usually associated with a lung infection related to cystic fibrosis (CF)?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/NFB/2"
+            },
+            {
+              "choices": [
+                "Pseudomonas stutzeri",
+                "Pseudomonas fluorescens",
+                "Pseudomonas putida",
+                "Burkholderia pseudomallei"
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas stutzeri",
+                "explanation": "P. stutzeri produces dry, wrinkled colonies that are tough and adhere to the media as well as smooth colonies. B. pseudomallei produces similar colony types but is distinguished by biochemical tests and susceptibility to the polymyxins. The colonies of P. stutzeri are buff to light brown because of the relatively high concentration of cytochromes"
+              },
+              "question": "A nonfermenter recovered from an eye wound is oxidase positive, motile with polar monotrichous flagella, and grows at 42°C. Colonies are dry, wrinkled or smooth, buff to light brown, and are difficult to remove from the agar. In which DNA homology group should this organism be placed?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/NFB/2"
+            },
+            {
+              "choices": [
+                "Pseudomonas aeruginosa",
+                "Pseudomonas stutzeri",
+                "Pseudomonas putida",
+                "Burkholderia pseudomallei"
+              ],
+              "correctAnswer": {
+                "answer": "Burkholderia pseudomallei",
+                "explanation": "B. pseudomallei produces wrinkled colonies resembling P. stutzeri. Infections are usually asymptomatic and can be diagnosed only by serological methods. The organism exists in soil and water in an area of latitude 20° north and south of the equator (mainly in Thailand and Vietnam). Thousands of U.S. military personnel were infected with these bacteria during the 1960s and 1970s. The disease may reactivate many years after exposure and has been called the “Vietnamese time bomb."
+              },
+              "question": "Which organism is associated with immunodeficiency syndromes and melioidosis (a glanders-like disease prevalent in Southeast Asia and northern Australia)?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/NFB/2"
+            },
+            {
+              "choices": [
+                "Pigment on blood agar, oxidase, DNase",
+                "Pigment on MacConkey agar, flagellar stain, motility",
+                "Glucose, maltose, lysine decarboxylase",
+                "Triple-sugar iron agar, motility, oxidase"
+              ],
+              "correctAnswer": {
+                "answer": "Pigment on blood agar, oxidase, DNase",
+                "explanation": "Both organisms produce yellowish pigment and have polar tuft flagella, but the oxidase and DNase tests are differential. Test B. cepacia S. maltophilia Pigment on BAP Green-yellow Lavender-green Oxidase + Neg DNase Neg + Motility + + Glucose OF (open) + + Maltose OF (open) + + Lysine decarboxylase + "
+              },
+              "question": "Which characteristics/biochemical tests are used to differentiate Burkholderia cepacia from S. maltophilia?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Burkholderia pseudomallei",
+                "Pseudomonas stutzeri",
+                "Burkholderia cepacia",
+                "Pseudomonas aeruginosa"
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas aeruginosa",
+                "explanation": "The oxidase test and red pigment (pyorubin), as well as growth at 42°C, distinguish P. aeruginosa from the other nonfermenters listed, particularly B. cepacia, which is also associated with CF"
+              },
+              "question": "The following results were obtained from a pure culture of gram-negative rods recovered from the pulmonary secretions of a 10-year-old cystic fibrosis patient with pneumonia: Oxidase = + Motility = + Glucose OF (open) = + Gelatin hydrolysis = + Pigment = Red Arginine dihydrolase = + (nonfluorescent) Growth at 42°C = + Flagella = + (polar, monotrichous) Which is the most likely organism?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/3"
+            },
+            {
+              "choices": [
+                "Urease (rapid)",
+                "Oxidase",
+                "Growth on MacConkey agar",
+                "Motility"
+              ],
+              "correctAnswer": {
+                "answer": "Urease (rapid)",
+                "explanation": "Alcaligenes spp. and Bordetella spp. (nonpertussis) are two organisms that are very similar biochemically, but B. bronchiseptica is urease positive. Both organisms are oxidase positive, grow on MacConkey agar, and are motile by peritrichous flagella. B. bronchiseptica grows well on MacConkey agar, but other species of Bordetella are fastidious gram-negative rods. B. bronchiseptica is the cause of mild respiratory infections, whereas B. pertussis is the cause of whooping cough"
+              },
+              "question": "Alcaligenes faecalis (formerly A. odorans) is distinguished from Bordetella bronchiseptica with which test?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Oxidase, growth on MacConkey agar",
+                "Oxidase and OF (glucose)",
+                "TSI and urea hydrolysis",
+                "TSI and VP"
+              ],
+              "correctAnswer": {
+                "answer": "Oxidase, growth on MacConkey agar",
+                "explanation": "Chryseobacterium spp. and Acinetobacter spp. often produce a yellow pigment on blood or chocolate agar and are nonmotile. Acinetobacter spp. are oxidase negative, grow on MacConkey agar, and are coccobacillary on the Gram-stained smear. In contrast, Chryseobacterium spp. are oxidase positive, do not grow on MacConkey agar, and are typically rod shaped. Elizabethkingia (formerly Chryseobacterium) meningosepticum is highly pathogenic for premature infants. The organism is transmitted to the neonate via the birth canal and is seen in outbreaks of neonatal units as well as long-term care facilities"
+              },
+              "question": "Chryseobacterium spp. are easily distinguished from Acinetobacter spp. by which of the following two tests?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Acinetobacter spp.",
+                "Pseudomonas aeruginosa",
+                "Pseudomonas stutzeri",
+                "Moraxella lacunata"
+              ],
+              "correctAnswer": {
+                "answer": "Moraxella lacunata",
+                "explanation": "Moraxella spp. are oxidase positive and nonmotile, and this distinguishes them from Acinetobacter spp. and most Pseudomonas spp. Moraxella spp. are highly sensitive to penicillin, but Acinetobacter spp. and Pseudomonas spp. are penicillin resistant. M. lacunata is implicated in infections involving immunosuppressed patients. M. lacunata is usually associated with eye infections but can also be the cause of bacteremia and respiratory infections in the immunosuppressed patient"
+              },
+              "question": "A gram-negative coccobacillus was recovered on chocolate agar from the CSF of an immunosuppressed patient. The organism was nonmotile and positive for indophenol oxidase but failed to grow on MacConkey agar. The organism was highly susceptible to penicillin. The most probable identification is:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Acinetobacter spp.",
+                "Pseudomonas aeruginosa",
+                "Moraxella spp.",
+                "Stenotrophomonas maltophilia"
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas aeruginosa",
+                "explanation": "Growth on Cetrimide (acetyl trimethyl ammonium bromide) agar is used for the isolation and presumptive identification of P. aeruginosa. With the exception of P. fluorescens, the other pseudomonads are inhibited along with related nonfermentative bacteria. Colonies of P. aeruginosa appear as yellow-green to blue-green colonies on Cetrimide agar"
+              },
+              "question": "Cetrimide agar is used as a selective isolation agar for which organism?",
+              "reference": "Microbiology/Select methods/Reagents/Media/NFB/Identification/2"
+            },
+            {
+              "choices": [
+                "Acinetobacter spp.",
+                "Moraxella lacunata",
+                "Pseudomonas aeruginosa",
+                "Alcaligenes spp."
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas aeruginosa",
+                "explanation": "P. aeruginosa is a cause of a significant number of burn wound infections; these organisms can exist in distilled water and underchlorinated water. Acinetobacter spp. are oxidase negative and Moraxella spp. are highly susceptible to penicillin, and this helps rule them out as possible causes"
+              },
+              "question": "A specimen from a 15-year-old female burn patient was cultured after débridement, and the following results were obtained: Oxidase = + Lysine decarboxylase = Neg Catalase = + Motility = + Ornithine decarboxylase = Neg Glucose = + for oxidation (open tube) Arginine dihydrolase = + Maltose = Neg for oxidation (open tube) Penicillin = Resistant Aminoglycosides = Susceptible Colistin (Polymixin B) = Susceptible These results indicate which of the following organisms?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/3"
+            },
+            {
+              "choices": [
+                "Acinetobacter spp.",
+                "Pseudomonas aeruginosa",
+                "Burkholderia cepacia",
+                "Elizabethkingia (formerly Chryseobacterium) meningosepticum"
+              ],
+              "correctAnswer": {
+                "answer": "Elizabethkingia (formerly Chryseobacterium) meningosepticum",
+                "explanation": "All species of Acinetobacter are oxidase negative, are nonmotile, and grow on MacConkey agar. Elizabethkingia (formerly Chryseobacterium) spp. produce yellow pigment (like some Acinetobacter) but are oxidase positive and do not grow well on MacConkey agar. B. cepacia also produces a yellow pigment but is motile. P. aeruginosa is motile and grows on Mac agar"
+              },
+              "question": "A yellow pigment–producing organism, growing on chocolate agar, testing oxidase positive, nonmotile and does not grow on MacConkey agar was recovered from the blood of a neonate. What is the most likely organism?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/3"
+            },
+            {
+              "choices": [
+                "Sulfanilic acid and α-naphthylamine",
+                "Ehrlich and Kovac reagents",
+                "o-Nitrophenyl-β-D-galactopyranoside",
+                "Kovac reagent"
+              ],
+              "correctAnswer": {
+                "answer": "Sulfanilic acid and α-naphthylamine",
+                "explanation": "In the nitrate test, nitrites formed by bacterial reduction of nitrates will diazotize sulfanilic acid. The diazonium compound complexes with α-naphthylamine, forming a red product. Media containing nitrates are used for the identification of nonfermenters. When testing nonfermenters, it is wise to confirm a negative reaction using zinc dust. The diazonium compound detects nitrite only, and the organism may have reduced nitrates to nitrogen, ammonia, nitrous oxide, or hydroxylamine. Zinc ions reduce residual nitrates in the media to nitrites. A red color produced after addition of zinc indicates the presence of residual nitrates, confirming a true negative reaction. If a red or pink color does not occur after adding zinc, then the organism reduced the nitrate to a product other than nitrite, and the result is considered positive"
+              },
+              "question": "Which reagent(s) is (are) used to develop the red color indicative of a positive reaction in the nitrate reduction test?",
+              "reference": "Microbiology/Apply knowledge of biochemical reactions/Bacteria/1"
+            },
+            {
+              "choices": [
+                "Shewanella putrefaciens",
+                "Acinetobacter spp.",
+                "Pseudomonas aeruginosa",
+                "Chryseobacterium spp."
+              ],
+              "correctAnswer": {
+                "answer": "Shewanella putrefaciens",
+                "explanation": "S. putrefaciens produces abundant H2S on KIA or TSI. Shewanellae are the only nonfermenters that produce H2S on these media"
+              },
+              "question": "A culture from an intra-abdominal abscess produced orange-tan colonies on blood agar that gave the following results: Oxidase = + Nitrate reduction = + KIA = Alk/Alk (H2S)+ Motility = + (single polar flagellum) DNase = + Ornithine decarboxylase = + Growth at 42°C = Neg MacConkey agar = NLF (non–lactose fermenter) The most likely identification is:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/3"
+            },
+            {
+              "choices": [
+                "Motility",
+                "OF glucose",
+                "Oxidase",
+                "Cetrimide agar"
+              ],
+              "correctAnswer": {
+                "answer": "Motility",
+                "explanation": "B. cepacia (93%) are weakly oxidase positive and motile. Chryseobacterium spp. are oxidase positive but are nonmotile"
+              },
+              "question": "Chryseobacterium spp. and B. cepacia are easily differentiated by which test?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/NFB/2"
+            },
+            {
+              "choices": [
+                "Burkholderia cepacia",
+                "Pseudomonas aeruginosa",
+                "Stenotrophomonas maltophilia",
+                "Acinetobacter spp."
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas aeruginosa",
+                "explanation": "P. aeruginosa is an opportunistic organism that is not part of the human normal flora. Contact lens solution contamination, eye injury, or contact lens eye trauma are factors that contribute to P. aeruginosa eye infections. The characteristic blue-green pigment on Mueller-Hinton agar (pyocyanin pigment) produced by P. aeruginosa and the high resistance to antibiotics aid in its identification"
+              },
+              "question": "A 15-year-old female complained of a severe eye irritation after removing her soft contact lenses. A swab specimen of the infected right eye was obtained by an ophthalmologist, who ordered culture and sensitivity testing. The culture was plated on blood agar and MacConkey agar. At 24 hours, growth of a gram-negative rod that tested positive for cytochrome oxidase was noted. The Mueller-Hinton sensitivity plate showed a bluish-green “lawn” of growth that proved highly resistant to most of the antibiotics tested except amikacin, tobramycin, and ciprofloxacin. What is the most likely identification?",
+              "reference": "Microbiology/Apply knowledge of laboratory data to make identifications/GNNFB/3"
+            },
+            {
+              "choices": [
+                "Pseudomonas fluorescens",
+                "Pseudomonas putida",
+                "Pseudomonas stutzeri",
+                "Pseudomonas aeruginosa"
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas aeruginosa",
+                "explanation": "P. aeruginosa is highly resistant to many antimicrobial drugs as well as being one of the most often cultured opportunistic organisms. This virulence factor allows for many nosocomial infections, such as UTI, wounds (in burn patients), bacteremia, respiratory tract infection, and CNS infection"
+              },
+              "question": "Which of the listed Pseudomonas spp. is associated with the following virulence factors: exotoxin A, endotoxins, proteolytic enzymes, antimicrobial resistance, and production of alginate?",
+              "reference": "Microbiology/Apply knowledge of virulence/Identification/GNNFB/2"
+            },
+            {
+              "choices": [
+                "Burkholderia mallei",
+                "Pseudomonas aeruginosa",
+                "Pseudomonas stutzeri",
+                "Burkholderia pseudomallei"
+              ],
+              "correctAnswer": {
+                "answer": "Burkholderia mallei",
+                "explanation": "B. mallei is rarely transmitted to humans. It is the causative agent of glanders in mules, donkeys, and horses. It is not part of the human skin flora, and the most likely transmission to humans is through broken skin"
+              },
+              "question": "A 20-year-old horse groomer exhibited a “glanders-like” infection. His history indicated he had suffered several open wounds on his hands 2 weeks before the swelling of his lymph nodes. A gram-negative rod was recovered from a blood culture that grew well on blood and MacConkey agars. Most of the biochemical tests were negative, including the cytochrome oxidase test. What is the most likely identification?",
+              "reference": "Microbiology/Apply epidemiology for ID/GNNFB/3"
+            },
+            {
+              "choices": [
+                "Stenotrophomonas maltophilia",
+                "Burkholderia pseudomallei",
+                "Pseudomonas aeruginosa",
+                "Acinetobacter spp."
+              ],
+              "correctAnswer": {
+                "answer": "Burkholderia pseudomallei",
+                "explanation": "B. pseudomallei infections often produce abscesses in organs (liver, spleen, lungs) as well as on the skin, in soft tissue, and in joints and bones. Vietnam War veterans especially may harbor these organisms, which are limited to tropical and subtropical environments (Southeast Asia and Australia). The organism may surface years later after surviving in a latent state within phagocytes. There is a high prevalence of this organism on the surfaces of rice paddies in northern Thailand"
+              },
+              "question": "A Vietnam War veteran presented with a “glanders-like” infection (melioidosis). Several blood cultures produced gram-negative rods that were positive for cytochrome oxidase, oxidized glucose and xylose, and grew at 42°C. What is the most likely organism?",
+              "reference": "Microbiology/Apply knowledge for identification/GNNFB/2"
+            },
+            {
+              "choices": [
+                "Acinetobacter spp.",
+                "Pseudomonas putida",
+                "Pseudomonas stutzeri",
+                "Pseudomonas aeruginosa"
+              ],
+              "correctAnswer": {
+                "answer": "Pseudomonas aeruginosa",
+                "explanation": "Patients with CF usually do not escape P. aeruginosa infections completely. P. aeruginosa produces alginate that accounts for the “wet, mucoidy” appearance of colonies. This overproduction of alginate is thought to cause the inhibition of phagocytosis. The light blue color results from lower production of polyamine, and the wet or mucoidy appearance is caused by overproduction of alginate. The result is chronic infections in patients with CF with the “wet” form of P. aeruginosa"
+              },
+              "question": "Cytochrome oxidase-positive, nonfermentative gram-negative bacilli were recovered from the stool of a patient with CF. The isolates produced wet (mucoidy) light blue colonies on tryptic soy agar. Which identification is most likely?",
+              "reference": "Microbiology/Apply knowledge for identification/NFGNB/2"
+            },
+            {
+              "choices": [
+                "Acinetobacter spp.",
+                "Pseudomonas aeruginosa",
+                "Burkholderia cepacia",
+                "Pseudomonas putida"
+              ],
+              "correctAnswer": {
+                "answer": "Acinetobacter spp.",
+                "explanation": "Acinetobacter spp. often colonize immunocompromised patients through intravenous or urinary catheters. Acinetobacter spp. are nonmotile, oxidase negative, coccobacilli, which grow well on MacConkey agar"
+              },
+              "question": "Several postoperative hospitalized patients were colonized with gram-negative coccobacilli growing on MacConkey agar. Specimens were obtained from blood, urine, and wound sites. Testing revealed oxidase negative, nonmotile organisms. Which of the following is the most likely cause of the nosocomial infections?",
+              "reference": "Microbiology/Apply knowledge for Identification/GNNFB/3"
+            },
+            {
+              "choices": [
+                "Acinetobacter spp.",
+                "Stenotrophomonas maltophilia",
+                "Pseudomonas aeruginosa",
+                "Burkholderia gladioli"
+              ],
+              "correctAnswer": {
+                "answer": "Stenotrophomonas maltophilia",
+                "explanation": "S. maltophilia are oxidase negative, whereas all the other choices are oxidase positive (B. gladioli are weakly oxidase positive)"
+              },
+              "question": "A nosocomial infection involving an 80-year-old female patient, recovering from pneumonia, produced many oxidase-negative colonies on MacConkey agar. Further testing results are: Motility = + Maltose = + Resistant to most beta-lactams Glucose = + Resistant to most aminoglycosides The most likely identification is:",
+              "reference": "Microbiology/Apply knowledge for Identification/GNNFB/3"
+            }
+          ],
+          "type": "MULTIPLE_CHOICE"
+        }
+      ],
+      "topic": "Nonfermentative Bacilli"
+    }
+  ],
+  "edition": "5th",
+  "title": "Medical Laboratory Science Review"
+}

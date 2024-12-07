@@ -1,0 +1,787 @@
+{
+  "author": "Robert R. Harr",
+  "data": [
+    {
+      "chapter": "8.5",
+      "questions": [
+        {
+          "data": [
+            {
+              "choices": [
+                "Bacitracin",
+                "Catalase",
+                "Hemolysis pattern",
+                "All of these options"
+              ],
+              "correctAnswer": {
+                "answer": "Catalase",
+                "explanation": "The catalase test (utilizing a 3% hydrogen peroxide 2 solution stored in a brown bottle under refrigeration) is positive for the Staphylococcus and Micrococcus spp. Members of the Streptococcaceae family are negative. Staphylococcus spp. Micrococcus spp. Open tube (oxidation) + + Closed tube (fermentation) + Ne"
+              },
+              "question": "The test used most often to separate Staphylococcus and Micrococcus spp. from Streptococcus spp. is:",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/1"
+            },
+            {
+              "choices": [
+                "Fermentation of glucose (OF tube)",
+                "Catalase test",
+                "Gram stain",
+                "All of these options"
+              ],
+              "correctAnswer": {
+                "answer": "Fermentation of glucose (OF tube)",
+                "explanation": "Both micrococci and staphylococci are catalase-positive and gram-positive cocci. On direct smears, they both appear as pairs, short chains (resembling Streptococcus spp.), or clusters. However, the micrococci fail to produce acid from glucose under anaerobic conditions. The OF tube reactions are provided in the table above"
+              },
+              "question": "Micrococcus and Staphylococcus spp. are differentiated by which test(s)?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/1"
+            },
+            {
+              "choices": [
+                "Streptococcus",
+                "Aerococcus",
+                "Micrococcus",
+                "Enterococcus"
+              ],
+              "correctAnswer": {
+                "answer": "Micrococcus",
+                "explanation": "Lysostaphin is an endopeptidase that cleaves the glycine-rich pentapeptide cross- bridges in the staphylococcal cell wall peptidoglycan. The susceptibility of the staphylococci to lysostaphin (less than 200 μg/mL) is used to differentiate them from the micrococci. Staphylococci are susceptible and show a 10- to 16-mm zone of inhibition, whereas micrococci are not inhibited and will grow up to the disk"
+              },
+              "question": "Lysostaphin is used to differentiate Staphylococcus from which other gram-positive, catalase-positive organisms?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Slide coagulase test",
+                "Tube coagulase test",
+                "Latex agglutination",
+                "All of these options"
+              ],
+              "correctAnswer": {
+                "answer": "All of these options",
+                "explanation": "The slide coagulase test using rabbit plasma with ethylenediaminetetraacetic acid (EDTA) detects bound coagulase or “clumping factor” on the surface of the cell wall, which reacts with the fibrinogen in the plasma. This test is not positive for all strains of S. aureus, and a negative result must be confirmed by the tube method for detecting “free coagulase” or extracellular coagulase. The tube test is usually positive within 4 hours at 35°C; however, a negative result must then be incubated at room temperature for the remainder of 18 to 24 hours. Some strains produce coagulase slowly or produce fibrinolysin, which dissolves the clot at 35°C. Latex agglutination procedures utilize fibrinogen and immunoglobulin G (IgG)-coated latex beads that detect protein A on the staphylococcal cell wall"
+              },
+              "question": "Which of the following tests is used routinely to identify S. aureus?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Urease and lecithinase",
+                "Hyaluronidase and β-lactamase",
+                "Lecithinase and catalase",
+                "Cytochrome oxidase"
+              ],
+              "correctAnswer": {
+                "answer": "Hyaluronidase and β-lactamase",
+                "explanation": "In addition to coagulase, the virulence of S. aureus is attributed to hyaluronidase, which damages the intercellular matrix (basement membrane) of tissues. β-Lactamase– producing strains are able to inactivate penicillin and ampicillin, making the organism resistant to these antibiotics. Lecithinase is not produced by S. aureus, and urease is not a virulence factor"
+              },
+              "question": "Which of the following enzymes contribute to the virulence of S. aureus?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Bacteria/1"
+            },
+            {
+              "choices": [
+                "Staphylococcus epidermidis",
+                "Staphylococcus hominis",
+                "Staphylococcus aureus",
+                "Staphylococcus saprophyticus"
+              ],
+              "correctAnswer": {
+                "answer": "Staphylococcus aureus",
+                "explanation": "S. aureus is the organism most often recovered from female patients. These strains produce toxic shock syndrome toxin 1 (TSST-1). Toxic shock syndrome is attributed to the use of certain highly absorbent tampons by menstruating females. The toxin is also recovered from sites other than the genital area and produces fever and life- threatening systemic damage as well as shock"
+              },
+              "question": "Toxic shock syndrome is attributed to infection with:",
+              "reference": "Microbiology/Correlate clinical and laboratory data/Bacteria/Staphylococcus/2"
+            },
+            {
+              "choices": [
+                "Staphylococcus intermedius",
+                "Staphylococcus saprophyticus",
+                "Staphylococcus hominis",
+                "Staphylococcus haemolyticus"
+              ],
+              "correctAnswer": {
+                "answer": "Staphylococcus intermedius",
+                "explanation": "S. intermedius may be falsely identified as S. aureus in dog bite wounds because it infects mammals and certain birds, but not usually humans. Cases involving humans result from animal bites and are most often seen in persons who work closely with animals. S. intermedius may give a positive latex agglutination coagulase test"
+              },
+              "question": "Which Staphylococcus species, in addition to S. aureus, also produces coagulase using the tube coagulase test?",
+              "reference": "Microbiology/Correlate clinical and laboratory data/Bacteria/Staphylococcus/2"
+            },
+            {
+              "choices": [
+                "Prosthetic heart valves",
+                "Intravenous catheters",
+                "Urinary tract",
+                "All of the above"
+              ],
+              "correctAnswer": {
+                "answer": "All of the above",
+                "explanation": "S. epidermidis represents 50% to 80% of all coagulase-negative Staphylococcus spp. recovered from numerous clinical specimens. It is of special concern in nosocomial infections because of its high resistance to antibiotics"
+              },
+              "question": "S. epidermidis (coagulase negative) is recovered from which of the following sources?",
+              "reference": "Microbiology/Correlate clinical and laboratory data/Bacteria/Staphylococcus/2"
+            },
+            {
+              "choices": [
+                "Staphylococcus aureus",
+                "Staphylococcus epidermidis",
+                "Staphylococcus intermedius",
+                "Staphylococcus saprophyticus"
+              ],
+              "correctAnswer": {
+                "answer": "Staphylococcus epidermidis",
+                "explanation": "S. epidermidis produces an extracellular slime (exopolysaccharide or biofilm) that enhances the adhesion of these organisms to indwelling plastic catheters. The slime production is considered a virulence factor and is associated with infections from prostheses"
+              },
+              "question": "Slime production is associated with which Staphylococcus species?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Bacteria/1"
+            },
+            {
+              "choices": [
+                "Heteroresistant",
+                "Bacteriophage group 52A",
+                "Cross-resistant",
+                "Plasmid-altered"
+              ],
+              "correctAnswer": {
+                "answer": "Heteroresistant",
+                "explanation": "Methicillin-resistant S. aureus (MRSA) and methicillin-resistant S. epidermidis (MRSE) are called heteroresistant. This refers to two subpopulations in a culture, one that is susceptible and the other that is resistant to antibiotic(s). The resistant population grows more slowly than the susceptible one and can be overlooked. Therefore, the more resistant subpopulation should be promoted growthwise by using a neutral pH (7.0–7.4), cooler incubation temperatures (30°C–35°C), the addition of 2% to 4% NaCl, and incubation up to 48 hours. For identification of MRSA, molecular assays (using amplified DNA) and MALDI-TOF MS (used directly from blood cultures) have proven successful"
+              },
+              "question": "Strains of Staphylococcus species resistant to the β-lactam antibiotics by standardized disk diffusion and broth microdilution susceptibility methods are called:",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Bacteria/1"
+            },
+            {
+              "choices": [
+                "5 μg of lysostaphin",
+                "5 μg of novobiocin",
+                "10 units of penicillin",
+                "0.04 unit of bacitracin"
+              ],
+              "correctAnswer": {
+                "answer": "5 μg of novobiocin",
+                "explanation": "S. saprophyticus is coagulase negative and resistant to 5 μg of novobiocin. When using the standardized Kirby-Bauer sensitivity procedure, a 6- to 12-mm zone of growth inhibition is considered resistant. Susceptible strains measure 16 to 27 mm (inhibition) zones"
+              },
+              "question": "S. saprophyticus is best differentiated from S. epidermidis by its resistance to:",
+              "reference": "Microbiology/Correlate clinical and laboratory data/Bacteria/Staphylococcus/2"
+            },
+            {
+              "choices": [
+                "Staphylococcus saprophyticus",
+                "Staphylococcus epidermidis",
+                "Staphylococcus aureus",
+                "Staphylococcus hominis"
+              ],
+              "correctAnswer": {
+                "answer": "Staphylococcus aureus",
+                "explanation": "S. aureus can produce fibrinolysins that dissolve the clot formed by the coagulase enzyme. The tube method calls for an incubation of 4 hours at 35°C to 37°C and 18 to 24 hours at room temperature. Both must be negative to interpret the result as coagulase negative. This organism is coagulase positive and, therefore, identified as S. aureus"
+              },
+              "question": "The following results were observed by using a tube coagulase test: Coagulase at 4 hours = + Coagulase at 18 hours = Neg DNase = + Novobiocin = Sensitive (16-mm zone) Hemolysis on blood agar = β Mannitol salt plate = + (acid production) What is the most probable identification?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Penicillin",
+                "Ampicillin",
+                "Cephalothin",
+                "Vancomycin"
+              ],
+              "correctAnswer": {
+                "answer": "Vancomycin",
+                "explanation": "Vancomycin, along with rifampin, is used for strains of S. aureus that are resistant to the β-lactams. MRSA strains pose problems when reading the zone sizes for these strains. Their heteroresistance results in a film of growth consisting of very small colonies formed within the defined inhibition zone surrounding the antibiotic disk. Initially, this appears as a mixed culture or contaminant"
+              },
+              "question": "S. aureus recovered from a wound culture gave the following antibiotic sensitivity pattern by the standardized Kirby-Bauer method (S = sensitive; R = resistant): Penicillin = R Cephalothin = R Vancomycin = S Ampicillin = S Cefoxitin = R Methicillin = R Which is the drug of choice for treating this infection?",
+              "reference": "Microbiology/Correlate clinical and laboratory data/Bacteria/Staphylococcus/2"
+            },
+            {
+              "choices": ["Acetoin", "Catalase", "Slide coagulase", "Urease"],
+              "correctAnswer": {
+                "answer": "Acetoin",
+                "explanation": "The production of acetoin by S. aureus from glucose or pyruvate differentiates it from S. intermedius, which is also coagulase positive (positive for clumping factor and free coagulase or tube test). This test is the Voges-Proskauer (VP) test. Acetoin production is detected by addition of 40% KOH and 1% α-naphthol to the VP test broth after 48 hours of incubation. A distinct pink color within 10 minutes denotes a positive test result"
+              },
+              "question": "Which of the following tests should be used to following a coagulase-positive tube test (free coagulase) to separate S. aureus from S. intermedius? The culture specimen was obtained from a patient who suffered a dog-bite wound.",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Staphylococcus aureus",
+                "Staphylococcus epidermidis",
+                "Micrococcus spp.",
+                "Streptococcus spp."
+              ],
+              "correctAnswer": {
+                "answer": "Micrococcus spp.",
+                "explanation": "Micrococcus spp. utilize glucose oxidatively but not under anaerobic conditions (sealed tube). Staphylococcus spp. utilize glucose oxidatively and anaerobically. The catalase differentiates the Micrococcaceae family (positive) from the Streptococcaceae family (negative)"
+              },
+              "question": "A gram-positive coccus recovered from a wound ulcer from a 31-year-old patient with diabetes showed pale yellow, creamy, β-hemolytic colonies on blood agar. Given the following test results, what is the most likely identification? Catalase = + Glucose OF: Positive open tube, negative sealed tube Mannitol salt = Neg Slide coagulase = Neg",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Lactose fermentation",
+                "Urease",
+                "Catalase",
+                "Novobiocin susceptibility"
+              ],
+              "correctAnswer": {
+                "answer": "Novobiocin susceptibility",
+                "explanation": "S. epidermidis and S. saprophyticus are the two possibilities because they are both catalase positive, coagulase negative, urease positive, and ferment lactose. Novobiocin susceptibility is the test of choice for differentiating these two species. S. epidermidis is sensitive, but S. saprophyticus is resistant to 5 μg of novobiocin. UTIs caused by S. saprophyticus are often seen in cultures from sexually active young females"
+              },
+              "question": "Urine cultured from the catheter of an 18-year-old female patient produced more than 100,000 col/mL on a CNA plate. Colonies were catalase positive, coagulase negative by the latex agglutination slide method as well as the tube coagulase test. The best single test for identification is:",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/3"
+            },
+            {
+              "choices": [
+                "Tube coagulase test",
+                "β-Hemolysis on blood agar",
+                "Mannitol salt agar plate",
+                "All of these options"
+              ],
+              "correctAnswer": {
+                "answer": "All of these options",
+                "explanation": "S. aureus is novobiocin sensitive and cannot be ruled out by a negative clumping factor test. Most S. aureus produce β-hemolysis on sheep blood agar plates and are mannitol salt positive (produce acid and are not inhibited by the high salt concentration). The tube test (to detect free coagulase) should be performed because the slide test was negative"
+              },
+              "question": "A Staphylococcus spp. recovered from a wound (cellulitis) was negative for the slide coagulase test (clumping factor) and negative for novobiocin resistance. The next test(s) needed for identification is (are):",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/3"
+            },
+            {
+              "choices": [
+                "Staphylococcus spp. from Micrococcus spp.",
+                "Streptococcus spp. from Staphylococcus spp.",
+                "Staphylococcus spp. from Pseudomonas spp.",
+                "Streptococcus spp. from Micrococcus spp."
+              ],
+              "correctAnswer": {
+                "answer": "Staphylococcus spp. from Micrococcus spp.",
+                "explanation": "Staphylococci are susceptible to furazolidone, giving zones of inhibition that are 15 mm or greater. Micrococcus spp. are resistant to furazolidone, giving zones of 6 to 9 mm. The test is performed as a disk susceptibility procedure using a blood agar plate"
+              },
+              "question": "Furazolidone (Furoxone) susceptibility is a test used to differentiate:",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Micrococcus spp. from Staphylococcus spp.",
+                "Staphylococcus spp. from Neisseria spp.",
+                "Planococcus spp. from Micrococcus spp.",
+                "Staphylococcus spp. from Streptococcus spp."
+              ],
+              "correctAnswer": {
+                "answer": "Micrococcus spp. from Staphylococcus spp.",
+                "explanation": "A bacitracin disk (0.04 unit) is used to identify group A β-hemolytic streptococci, but it will also differentiate catalase-positive organisms. A zone of 10 mm or greater is considered susceptible. The Staphylococcus species are resistant and grow up to the disk, whereas Micrococcus species are sensitive"
+              },
+              "question": "Bacitracin resistance (0.04 unit) is used to differentiate:",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Catalase",
+                "Coagulase",
+                "Modified oxidase",
+                "Novobiocin susceptibility"
+              ],
+              "correctAnswer": {
+                "answer": "Modified oxidase",
+                "explanation": "The modified oxidase test (Microdase) is used to rapidly identify catalase-positive gram-positive cocci as Micrococcus spp. (positive) or Staphylococcus spp. (negative). Filter paper disks that are saturated with oxidase reagent (tetramethyl-p- phenylenediamine in dimethylsulfoxide) are used. A colony of the isolate is rubbed onto the paper. Oxidase-positive organisms produce a purple color within 30 seconds or a blue color within 2 minutes if using the commercial product Microdase"
+              },
+              "question": "Which of the following tests will rapidly differentiate micrococci from staphylococci?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Aerobic, oxidase positive, and catalase positive",
+                "Facultative anaerobic, oxidase negative, catalase negative",
+                "Facultative anaerobic, β-hemolytic, catalase positive",
+                "May be α-, β-, or γ-hemolytic, catalase positive"
+              ],
+              "correctAnswer": {
+                "answer": "Facultative anaerobic, oxidase negative, catalase negative",
+                "explanation": "Streptococcus spp. are facultative anaerobes that grow aerobically as well and are oxidase and catalase negative. To demonstrate streptolysin O on blood agar, it is best to stab the agar to create anaerobiosis because streptolysin O is oxygen labile"
+              },
+              "question": "Streptococcus species exhibit which of the following properties?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Streptococci/1"
+            },
+            {
+              "choices": ["Group A", "Group B", "Group C", "Group G"],
+              "correctAnswer": {
+                "answer": "Group A",
+                "explanation": "Group A β-hemolytic streptococci are the cause of scarlet fever, and some strains produce toxins (pyrogenic exotoxins A, B, and C) that cause a scarlatiniform rash. Streptococcus pyogenes is the cause of puerperal fever, streptococcal toxic shock, rheumatic fever, and a severe “flesh-eating” bacterial infection"
+              },
+              "question": "Which group of β-hemolytic streptococci is associated with erythrogenic toxin production?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Bacteria/1"
+            },
+            {
+              "choices": [
+                "Anti-streptolysin O",
+                "Anti-streptolysin S",
+                "Anti-A",
+                "Anti-B"
+              ],
+              "correctAnswer": {
+                "answer": "Anti-streptolysin O",
+                "explanation": "The antistreptolysin O (ASO) titer is used to indicate a recent infection with group A β-hemolytic streptococci. Streptolysin O may also be produced by some strains of groups C and G streptococci"
+              },
+              "question": "A fourfold rise in titer of which antibody is the best indicator of a recent infection with group A β-hemolytic streptococci?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/1"
+            },
+            {
+              "choices": [
+                "Groups A and B",
+                "Groups C and D",
+                "Group C",
+                "Group F"
+              ],
+              "correctAnswer": {
+                "answer": "Groups A and B",
+                "explanation": "The bacitracin A disk test is no longer used, but the PYR, hippurate hydrolysis, and CAMP tests are used for the presumptive identification of the β-hemolytic streptococci. In addition to group A, groups C, F, and G are also β-hemolytic and give a positive test result for bacitracin (a zone of inhibition of any size). Therefore, a positive bacitracin A disc test does not confirm the presence of group A β-hemolytic streptococci. Group A strep test positive for PYR but negative for hippurate and the CAMP test. Group B streptococci test negative in the PYR test but positive in the hippurate and CAMP tests. Groups C, G and F test negative in all three tests"
+              },
+              "question": "The L-pyrrolidonyl-β-napthylamide (PYR), hippurate, and CAMP tests can be used for the presumptive identification of which group of β-hemolytic streptococci?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/1"
+            },
+            {
+              "choices": [
+                "α-Hemolytic streptococci",
+                "β-Hemolytic streptococci",
+                "Streptococcus pneumoniae",
+                "Enterococcus faecalis"
+              ],
+              "correctAnswer": {
+                "answer": "β-Hemolytic streptococci",
+                "explanation": "SXT is inhibitory to most streptococci except S. pyogenes and Streptococcus agalactiae. For this reason, SXT is used in a commercially available streptococcal selective agar (SSA) as a primary plating agar for the detection of group A streptococci. Latex agglutination test kits are used for the rapid detection of β- hemolytic streptococci Lancefield groups A, B, C, F, and G"
+              },
+              "question": "To diagnose streptococcal pharyngitis, primary plates of blood agar and blood agar with sulfamethoxazole-trimethoprim (SXT) are used to differentiate which streptococci?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/1"
+            },
+            {
+              "choices": [
+                "Susceptible Resistant",
+                "Resistant Resistant",
+                "Resistant Susceptible",
+                "Susceptible or resistant Susceptible"
+              ],
+              "correctAnswer": {
+                "answer": "Susceptible or resistant Susceptible",
+                "explanation": "Streptococci that are not group A or B may be either resistant or susceptible to bacitracin but are usually susceptible to SXT. β-Hemolytic Streptococci Bacitracin Sulfamethoxazole-Trimethoprim Group A Susceptible Resistant Group B Resistant Resistant Non-A, non-B Susceptible or resistant Susceptibl"
+              },
+              "question": "β-Hemolytic streptococci, not of group A or B, usually exhibit which of the following reactions? Bacitracin Sulfamethoxazole-Trimethoprim",
+              "reference": "Microbiology/Correlate clinical and laboratory data/Bacteria/Streptococci/2"
+            },
+            {
+              "choices": [
+                "Candle jar or CO2 incubator",
+                "Ambient air incubator",
+                "35°C incubator",
+                "37°C incubator"
+              ],
+              "correctAnswer": {
+                "answer": "Candle jar or CO2 incubator",
+                "explanation": "The CAMP test (described by Christie, Atkins, and Munch-Petersen in 1944) refers to a hemolytic interaction (flaming arrowhead) that is seen on a blood agar plate between the β-hemolysins produced by most strains of S. aureus and an extracellular protein produced by both hemolytic and nonhemolytic isolates of group B streptococci. In a CAMP test, the plate must be placed in an ambient air incubator at 35°C to 37°C. Group A streptococci may be CAMP positive if the plate is incubated in a candle jar, high CO2 atmosphere, or anaerobically"
+              },
+              "question": "A false-positive CAMP test result for the presumptive identification of group B streptococci may occur if the plate is incubated in a(n):",
+              "reference": "Microbiology/Apply knowledge to identify sources of error/Identification/Streptococci/3"
+            },
+            {
+              "choices": [
+                "Bacitracin disk test",
+                "CAMP test",
+                "Hippurate hydrolysis test",
+                "Bile esculin test"
+              ],
+              "correctAnswer": {
+                "answer": "Bile esculin test",
+                "explanation": "The bile esculin test differentiates those bacteria that can hydrolyze esculin and also grow in the presence of 4% bile salts or 40% bile. The bile esculin slant or plate is inoculated on the surface and incubated for 24 to 48 hours in a non-CO2 incubator. Group D streptococci (enterococci and nonenterococci) are positive, causing blackening of half or more of the slant within 48 hours. Viridans streptococci are negative (do not grow or hydrolyze esculin)"
+              },
+              "question": "Which test is used to differentiate α-hemolytic streptococci from the Enterococcus spp. And S. bovis growing on blood agar?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Streptococcus bovis colonies on a blood agar plate",
+                "Streptococcus pneumoniae colonies on a blood agar plate",
+                "Group A streptococci in broth culture",
+                "Group B streptococci in broth culture"
+              ],
+              "correctAnswer": {
+                "answer": "Streptococcus pneumoniae colonies on a blood agar plate",
+                "explanation": "The bile solubility test can be performed directly by dropping 2% sodium deoxycholate onto a few well-isolated colonies of S. pneumoniae. The bile salts speed up the autolysis observed in pneumococcal cultures. The colonies lyse and disappear when incubated at 35°C for 30 minutes, leaving a partially hemolyzed area on the plate. The same phenomenon can be seen using a broth culture; addition of 10% deoxycholate to broth containing S. pneumoniae results in visible clearing of the suspension after incubation at 35°C for 3 hours"
+              },
+              "question": "The bile solubility test causes the lysis of:",
+              "reference": "Microbiology/Apply principles of basic laboratory procedures/Identification/Streptococci/1"
+            },
+            {
+              "choices": [
+                "Optochin P disk test, 5 μg/mL or less",
+                "Bacitracin A disk test, 0.04 unit",
+                "CAMP test",
+                "Bile esculin test"
+              ],
+              "correctAnswer": {
+                "answer": "Optochin P disk test, 5 μg/mL or less",
+                "explanation": "Optochin (P disk) at a concentration of 5 μg/mL or less inhibits the growth of S. pneumoniae but not viridans streptococci. However, optochin at a concentration in excess of 5 μg/mL inhibits viridans streptococci as well if incubated under 5% CO2 at 35°C for 18 to 24 hours. A zone of inhibition of 14 mm or more around the 6-mm disk is considered a presumptive identification of S. pneumoniae. A questionable zone size should be confirmed by performing a bile solubility test"
+              },
+              "question": "S. pneumoniae and the α-hemolytic viridans streptococci can be differentiated by which test?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Streptococcus pneumoniae",
+                "Streptococcus bovis",
+                "Viridans streptococci",
+                "Enterococcus faecalis"
+              ],
+              "correctAnswer": {
+                "answer": "Enterococcus faecalis",
+                "explanation": "E. faecalis will grow in 6.5% salt, and the nonenterococci (S. bovis and S. equinus) will not. This test distinguishes the enterococci group from S. bovis and S. equinus (nonenterococci group). Both groups grow on bile esculin agar. Viridans streptococci are negative for 6.5% salt growth and will not grow on bile esculin agar"
+              },
+              "question": "The salt tolerance test (6.5% salt broth) is used to presumptively identify:",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Group A streptococci",
+                "Group B streptococci",
+                "Streptococcus pneumoniae",
+                "Streptococcus bovis"
+              ],
+              "correctAnswer": {
+                "answer": "Group B streptococci",
+                "explanation": "Approximately 80% of group B streptococci are capable of growing in 6.5% salt broth; however, they do not hydrolyze esculin or grow in media containing 4% bile salts"
+              },
+              "question": "In addition to E. faecalis, which other streptococci will grow in 6.5% salt broth?",
+              "reference": "Microbiology/Correlate clinical and laboratory data/Bacteria/Streptococci/2"
+            },
+            {
+              "choices": [
+                "Streptococcus pyogenes",
+                "Streptococcus agalactiae",
+                "Viridans streptococci",
+                "Streptococcus pneumoniae"
+              ],
+              "correctAnswer": {
+                "answer": "Streptococcus pneumoniae",
+                "explanation": "A precipitin reaction seen microscopically with methylene blue stain (microprecipitin reaction) occurs between the carbohydrate of the capsule of S. pneumoniae and anticapsular antibody. The antibody may be type specific or polyvalent. Binding of antibodies to the bacteria causes the capsule to swell, identifying the organisms as S. pneumoniae. Antigen detection kits are used to identify S. pneumoniae recovered from CSF and blood cultures. S. pneumoniae is the cause of 95% of the bacterial pneumonias in unvaccinated children and the leading cause of bacterial meningitis"
+              },
+              "question": "A spinal fluid specimen and blood cultures were obtained from a 1-year-old infant with a respiratory infection. Growth on blood agar showed nonhemolytic, streptococci. The Quellung test is used to identify which of the following Streptococcus species?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Streptococci/13"
+            },
+            {
+              "choices": [
+                "Group A and Enterococcus",
+                "Group A and B β-hemolytic streptococci",
+                "Non–group A or non–group B β-hemolytic streptococci",
+                "Streptococcus pneumoniae and Streptococcus bovis"
+              ],
+              "correctAnswer": {
+                "answer": "Group A and Enterococcus",
+                "explanation": "The PYR hydrolysis test is highly specific for group A streptococci and Enterococcus spp. The test detects the pyrrolidonylarylamidase enzyme, which hydrolyzes PYR"
+              },
+              "question": "The PYR hydrolysis test is a presumptive test for which group of β-hemolytic streptococci?",
+              "reference": "Microbiology/Apply knowledge of  fundamental biological characteristics/Streptococci/1"
+            },
+            {
+              "choices": [
+                "Group A streptococci",
+                "Group B streptococci",
+                "Enterococcus spp.",
+                "Non–group A, non–group B streptococci"
+              ],
+              "correctAnswer": {
+                "answer": "Non–group A, non–group B streptococci",
+                "explanation": "The β-hemolytic streptococci—not of groups A or B—are sensitive to SXT and may be either sensitive or resistant to bacitracin. Groups A and B are both resistant to SXT. Group A and E. faecalis are PYR positive. E. faecalis is also positive for bile esculin and 6.5% salt broth. Latex agglutination tests identify β-hemolytic groups A, B, C, F, and G"
+              },
+              "question": "A pure culture of β-hemolytic streptococci recovered from a leg wound ulcer gave the following reactions: CAMP test = Neg Bile esculin = Neg Hippurate hydrolysis = Neg 6.5% salt = Neg PYR = Neg Optochin = Resistant Bacitracin = Resistant SXT = Sensitive The most likely identification is:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Group A streptococci",
+                "Group B streptococci",
+                "Enterococcus faecalis, Enterococcus faecium",
+                "Non–group A, non–group B streptococci"
+              ],
+              "correctAnswer": {
+                "answer": "Enterococcus faecalis, Enterococcus faecium",
+                "explanation": "VRE (Vancomycin-Resistant Enterococcus) denotes E. faecalis and Enterococcus facium, which have shown resistance to most antimicrobials used to treat infections caused by gram-positive cocci (ampicillin, methicillin and other β-lactams) and therefore have mutated and now are resistant to vancomycin. Group A streptococci are sensitive to bacitracin and negative for bile esculin and 6.5% salt broth. Group B streptococci will grow in 6.5% salt broth but are negative for bile esculin and PYR. The non–group A, non–group B streptococci will not grow in 6.5% salt broth and are sensitive to SXT. E. faecalis is positive for bile esculin, 6.5% salt broth, and PYR"
+              },
+              "question": "β-Hemolytic streptococci, greater than 50,000 col/mL, were isolated from a urinary tract catheter urine specimen. Given the following reactions, what is the most likely identification? CAMP test = Neg Bile solubility = Neg PYR = + SXT = Resistant Optochin = Resistant Hippurate hydrolysis = ± 6.5% salt = + Bile esculin = + Bacitracin = Resistant Vancomycin = Resistant",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "CAMP test",
+                "Bacitracin susceptibility test",
+                "Bile solubility test",
+                "Staphylococcal cross-streak test"
+              ],
+              "correctAnswer": {
+                "answer": "Staphylococcal cross-streak test",
+                "explanation": "The staphylococcal streak, across the NVS inoculum, provides the nutrients needed. Very small colonies of NVS can be seen growing adjacent to the staphylococcal streak on the blood agar plate in a manner similar to the satellite phenomenon of Haemophilus spp. around S. aureus. NVS are normal flora of the oral cavity but may cause life-threatening infections when introduced into sterile areas (cause of endocarditis). Blood culture media will supply the necessary nutrients for their recovery"
+              },
+              "question": "Abiotrophia spp. or nutritionally variant streptococci (NVS) require specific thiol compounds, cysteine, or the active form (pyridoxal) of vitamin B6. Which of the following tests supplies these requirements for growth?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Streptococci/1"
+            },
+            {
+              "choices": [
+                "Enterococcus faecalis",
+                "Streptococcus pneumoniae",
+                "Streptococcus bovis",
+                "Group B streptococci"
+              ],
+              "correctAnswer": {
+                "answer": "Enterococcus faecalis",
+                "explanation": "E. faecalis is resistant to penicillin and ampicillin as well as some of the aminoglycoside antibiotics. Pneumococci, group B streptococci, and S. bovis are PYR negative"
+              },
+              "question": "Many β-hemolytic streptococci recovered from a wound were found to be penicillin resistant. Given the following results, what is the most likely identification? Bile esculin = + PYR = + 6.5% salt = + Hippurate hydrolysis = + SXT = Resistant Bile solubility = Neg",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Bile esculin and 6.5% salt broth",
+                "Starch hydrolysis and acid production from mannitol",
+                "Bacitracin and PYR",
+                "SXT susceptibility and PYR"
+              ],
+              "correctAnswer": {
+                "answer": "Starch hydrolysis and acid production from mannitol",
+                "explanation": "S. bovis and S. salivarius are physiologically and biochemically similar. They are both PYR and 6.5% salt broth negative and bile esculin positive, but only S. bovis is positive for mannitol and starch reactions. See the following chart: Bacitracin PYR BE 6.5% Salt Mannitol Starch S. bovis R Neg + Neg + + S. salivarius R Neg + Neg Neg Ne"
+              },
+              "question": "Which two tests best differentiate α-hemolytic S. bovis from Streptococcus salivarius which is also α-hemolytic?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Group A streptococci",
+                "Group B streptococci",
+                "Enterococcus faecalis",
+                "Non–group A, non–group B streptococci"
+              ],
+              "correctAnswer": {
+                "answer": "Group B streptococci",
+                "explanation": "Group B streptococci (S. agalactiae) are resistant to both bacitracin and SXT. Unlike group A and E. faecalis, the group B streptococci are negative for PYR. With some exceptions, group B streptococci will grow in 6.5% salt broth. Group B strep infections in newborns are the result of premature rupture of the mother’s membranes. The infection in a newborn happens within the first 5 days after birth and results in fever, sepsis, meningitis, and respiratory distress"
+              },
+              "question": "Two blood cultures obtained from a newborn grew β-hemolytic streptococci with the following reactions: CAMP test = + Bile solubility = Neg Bacitracin = Resistant Hippurate hydrolysis = + 6.5% salt = + Bile esculin = Neg PYR = Neg SXT = Resistant Which is the most likely identification?",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Neisseria gonorrhoeae",
+                "Neisseria lactamica",
+                "Neisseria sicca",
+                "Neisseria flavescens"
+              ],
+              "correctAnswer": {
+                "answer": "Neisseria gonorrhoeae",
+                "explanation": "Both N. gonorrhoeae and N. meningitidis grow selectively on MTM as a result of the addition of vancomycin and colistin, which inhibit gram-positive and gram-negative bacteria, respectively. Trimethoprim is added to inhibit swarming of Proteus spp. because a rectal swab may be used for culture. Nystatin and amphotericin B are used to prevent growth of yeasts and molds from vaginal specimens. N. lactamica will grow on MTM but is rarely involved in human infection"
+              },
+              "question": "MTM medium is used primarily for the selective recovery of which pathogenic Neisseria spp. organism from genital specimens?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/1"
+            },
+            {
+              "choices": [
+                "Multiple nutritional requirements",
+                "Pili on the cell surface",
+                "Use of a transparent medium",
+                "All of these options"
+              ],
+              "correctAnswer": {
+                "answer": "All of these options",
+                "explanation": "Upon subculture from a primary plate, various sizes and appearances of gonococci result from multiple nutritional requirements, such as arginine–hypoxanthine–uracil (AHU)–requiring strains. Colony size and coloration (or light reflection) are the basis of the Kellogg scheme (types T1 through T5). Types T1 and T2 have pili on the surface, whereas T3, T4, and T5 do not. Transparent media are not used routinely, but opaque and transparent colonial differences of the gonococci can be seen when using it"
+              },
+              "question": "Variation in colony types seen with fresh isolates of N. gonorrhoeae and sometimes with N. meningitidis are the result of:",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Neisseria/2"
+            },
+            {
+              "choices": [
+                "Neisseria gonorrhoeae",
+                "Neisseria meningitidis",
+                "Neisseria lactamica",
+                "All of these options"
+              ],
+              "correctAnswer": {
+                "answer": "All of these options",
+                "explanation": "All of the listed Neisseria spp. grow on MTM and are oxidase positive. N. lactamica is a nonpathogenic component of normal throat flora resembling N. meningitidis, but it grows well on selective MTM agar. Presumptive identification of N. meningitidis or N. gonorrhoeae is stated only if the source of the specimen (i.e., urogenital or CSF) is given. The identification must be confirmed by further testing, such as carbohydrate utilization tests, DNA tests, or rapid latex slide agglutination tests"
+              },
+              "question": "Gram-negative diplococci recovered from an MTM plate and giving a positive oxidase test result can be presumptively identified as:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/2"
+            },
+            {
+              "choices": [
+                "Neisseria gonorrhoeae",
+                "Neisseria meningitidis",
+                "Neisseria lactamica",
+                "Moraxella (Branhamella) catarrhalis"
+              ],
+              "correctAnswer": {
+                "answer": "Neisseria gonorrhoeae",
+                "explanation": "N. gonorrhoeae colonies recovered from selective MTM media give an immediate 4+ positive reaction (bubbling) when 30% H2O2 is added. The catalase test uses 3% H2O2. This is a presumptive test for N. gonorrhoeae. N. meningitidis and N. lactamica give a weak or delayed bubbling reaction. M. catarrhalis is catalase positive, whereas the Superoxol reactions are negative, weak, or delayed and it shows a variable growth pattern on MTM"
+              },
+              "question": "Colonies growing on MTM and showing a 4+ reaction with the Superoxol test may be considered as a rapid presumptive test for:",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Neisseria/1"
+            },
+            {
+              "choices": [
+                "Catalase test",
+                "10-unit penicillin disk on blood agar",
+                "Oxidase test",
+                "Superoxol test"
+              ],
+              "correctAnswer": {
+                "answer": "10-unit penicillin disk on blood agar",
+                "explanation": "Moraxella spp. are oxidase and catalase positive, as are the gonococci. Neisseria spp. and M. catarrhalis will keep their typical coccal morphology after overnight incubation on blood agar with a 10-unit penicillin disk (CO2 incubation). Other Moraxella spp. form long filaments or long spindle-shaped cells when grown near a 10-unit penicillin disk"
+              },
+              "question": "Nonpathogenic Moraxella spp. capable of growing on selective media for Neisseria can best be differentiated from pathogenic Neisseria spp. by which test?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Neisseria gonorrhoeae",
+                "Neisseria meningitidis",
+                "Moraxella (Branhamella) catarrhalis",
+                "Neisseria lactamica"
+              ],
+              "correctAnswer": {
+                "answer": "Neisseria gonorrhoeae",
+                "explanation": "Gram staining of urethral discharge (in men only) that shows typical gonococcal cells in PMNs should be reported “presumptive N. gonorrhoeae, confirmation to follow.” With female patients, the normal vaginal flora contain gram-negative cocci and diplococci resembling gonococci, and therefore, no presumptive identification should be reported for N. gonorrhoeae from the vaginal Gram-stained smear"
+              },
+              "question": "A Gram stain of a urethral discharge from a man showing extracellular and intracellular gram-negative diplococci within segmented neutrophils is a presumptive identification for:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Neisseria lactamica",
+                "Neisseria meningitidis",
+                "Neisseria gonorrhoeae",
+                "Neisseria flavescens"
+              ],
+              "correctAnswer": {
+                "answer": "Neisseria lactamica",
+                "explanation": "N. lactamica utilizes lactose by producing the enzyme β-galactosidase. All other Neisseria spp. that grow on MTM media are lactose negative"
+              },
+              "question": "The β-galactosidase test aids in the identification of which Neisseria species?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Neisseria/1"
+            },
+            {
+              "choices": [
+                "A CO2 incubator at 35°C for 24 hours",
+                "A CO2 incubator at 42°C for up to 72 hours",
+                "A non-CO2 incubator at 35°C for up to 72 hours",
+                "An anaerobic incubator at 35°C for up to 72 hours"
+              ],
+              "correctAnswer": {
+                "answer": "A non-CO2 incubator at 35°C for up to 72 hours",
+                "explanation": "CTA agar with 1% carbohydrate and phenol red pH indicator added is used for the identification of Neisseria species. CTA carbohydrates must be placed in an ambient air incubator because a high CO2 concentration may reduce the pH, causing a false- positive (acid) result. The utilization of carbohydrates by some fastidious gonococcal strains may take up to 72 hours to produce a color change in the pH indicator is rarely used because identifications are done by rapid biochemical, immunologic, or enzymatic methods as well as with nonamplified DNA probes"
+              },
+              "question": "Cystine tryptic digest (CTA) media used for identification of Neisseria spp. should be inoculated and cultured in:",
+              "reference": "Microbiology/Apply knowledge of basic laboratory procedures/Gram-negative cocci/1"
+            },
+            {
+              "choices": [
+                "Neisseria gonorrhoeae",
+                "Neisseria sicca",
+                "Neisseria flavescens",
+                "Neisseria lactamica"
+              ],
+              "correctAnswer": {
+                "answer": "Neisseria lactamica",
+                "explanation": "N. lactamica is part of the normal vaginal and throat flora and is the only Neisseria species that grows on MTM that utilizes lactose. Other saprophytic Neisseria spp. may utilize lactose but do not grow on MTM media"
+              },
+              "question": "Culture on MTM media of a vaginal swab produced several colonies of gram-negative diplococci that were catalase and oxidase positive and Superoxol negative. Given the following carbohydrate reactions, select the most likely identification. Glucose = + Sucrose = Neg Lactose = + Maltose = + Fructose = Neg",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Moraxella catarrhalis",
+                "Neisseria flavescens",
+                "Neisseria sicca",
+                "Neisseria elongata"
+              ],
+              "correctAnswer": {
+                "answer": "Moraxella catarrhalis",
+                "explanation": "M. catarrhalis is part of the normal upper respiratory flora but is implicated in lower respiratory infections, including pneumonia. It produces stunted growth on MTM and is DNase positive, characteristics that differentiate it from the other saprophytic Neisseria spp"
+              },
+              "question": "Sputum from a patient with pneumonia produced many colonies of gram-negative diplococci on a chocolate plate that were also present in fewer numbers on MTM after 48 hours. Given the following results, what is the most likely identification? Catalase = + DNase = + Glucose = Neg Lactose = NegFructose = Neg Oxidase = + Tributyrin hydrolysis = + Sucrose = Neg Maltose = Neg",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Gram-negative cocci/3"
+            },
+            {
+              "choices": [
+                "Oxacillin",
+                "Colistin",
+                "Sulfamethoxazole-Trimethoprim",
+                "Tetracycline"
+              ],
+              "correctAnswer": {
+                "answer": "Oxacillin",
+                "explanation": "Oxacillin is the drug used to screen staphylococci for resistance to antibiotics having the β-lactam ring. Included in this group are penicillin, cephalosporin, monobactam, and carbapenem. MRSA defines strains of staphylococci that are resistant to all of these antibiotic groups. MRSA strains are treated with vancomycin or oxazolidinone"
+              },
+              "question": "Showing resistance to which drug categorizes a strain of S. aureus as MRSA?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Antibiotic susceptibility/1"
+            },
+            {
+              "choices": [
+                "5 mm or greater",
+                "10 mm or greater",
+                "15 mm or greater",
+                "20 mm or greater"
+              ],
+              "correctAnswer": {
+                "answer": "20 mm or greater",
+                "explanation": "The standard Kirby-Bauer method used for disk diffusion susceptibility testing recommended by the Clinical and Laboratory Standards Institute (CLSI) is 20 mm. The test requires 20- to 24-hour incubation at 35°C in 5% to 7% CO2. If the zone size is 19 mm, an MIC should be performed on isolates from CSF or blood"
+              },
+              "question": "An oxacillin-disk screen test is used to detect S. pneumoniae resistance to penicillin. Using Mueller-Hinton agar with 5% sheep blood and a 1-μg oxacillin disk, what is the recommended inhibition zone size for penicillin susceptibility?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Antibiotic susceptibility/2"
+            },
+            {
+              "choices": [
+                "Streptococcus pneumoniae",
+                "Group B streptococci",
+                "Enterococcus spp.",
+                "Planococcus spp."
+              ],
+              "correctAnswer": {
+                "answer": "Enterococcus spp.",
+                "explanation": "A test for β-lactamase production should be performed on all isolates of Staphylococcus and Enterococcus as well as N. gonorrhoeae and H. influenzae. Some organisms may appear to be penicillin/ampicillin susceptible by the conventional Kirby-Bauer disk diffusion method for β-lactamase producers, but still produce small amounts of β-lactamase. An example is heteroresistant mecA-positive S. aureus (the mecA gene confers penicillin resistance and is present in all MRSA strains)"
+              },
+              "question": "Which one of the following organisms is a known producer of β-lactamase–producing strains, and should be tested (screened) by a commercial β-lactamase assay prior to susceptibility testing?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Antibiotic susceptibility/2"
+            },
+            {
+              "choices": ["E-test", "D-zone test", "A-test", "CAMP test"],
+              "correctAnswer": {
+                "answer": "D-zone test",
+                "explanation": "By using a 15-μg erythromycin disk adjacent to a 2-μg clindamycin disk in a disk diffusion procedure, a flattening of the clindamycin zone occurs in inducible clindamycin resistance, causing the zone to look like the letter “D.” This is referred to as being D-zone positive. The CLSI recommends that inducible clindamycin resistant strains be reported as resistant, with a comment that clindamycin may still be effective in some patients; however, an alternative therapy is recommended for treatment of the infection"
+              },
+              "question": "Which test is used for the determination of inducible clindamycin resistance in staphylococci and streptococci?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Antibiotic susceptibility/2"
+            },
+            {
+              "choices": [
+                "MIC 16μg/mL or greater",
+                "MIC of 8 to 16 μg/mL",
+                "MIC of 4 to 8 μg/mL",
+                "MIC 8 μg/mL or greater"
+              ],
+              "correctAnswer": {
+                "answer": "MIC 16μg/mL or greater",
+                "explanation": "S. aureus (VRSA) is determined if the MIC result is 16 μg/mL or greater. Strains showing high levels of resistance (MIC greater than 8 μg/mL) and intermediate resistance (MIC 4 to 8 μg/mL) are thought to have structural changes within the cell wall. Two new agents available to combat vancomycin-resistant strains are linezolid and daptomycin"
+              },
+              "question": "A wound specimen was obtained from an older patient with diabetes and identified as being positive for vancomycin-resistant S. aureus (VRSA). The method used to determine VRSA was the standard microdilution technique. To be considered VSRA positive, which MIC must have been reported?",
+              "reference": "Microbiology/Apply knowledge of standardized MIC testing/3"
+            },
+            {
+              "choices": [
+                "Streptococcus pyogenes",
+                "Staphylococcus aureus",
+                "Enterococcus faecalis",
+                "Streptococcus agalactiae"
+              ],
+              "correctAnswer": {
+                "answer": "Staphylococcus aureus",
+                "explanation": "Strains of S. aureus producing toxins A and B are the cause of “scalded skin syndrome,” which refers to skin infections that can be manifested as small blisters or covering 90% or greater of the body surface in newborns"
+              },
+              "question": "“Scalded skin syndrome” was a suspected infection obtained from a skin culture from a newborn. Gram-positive, catalase-positive white colonies that were β-hemolytic grew on blood agar. What is the most likely identification?",
+              "reference": "Microbiology/Apply knowledge Gram positive cocci/2"
+            }
+          ],
+          "type": "MULTIPLE_CHOICE"
+        }
+      ],
+      "topic": "Gram-Positive and Gram-Negative Cocci"
+    }
+  ],
+  "edition": "5th",
+  "title": "Medical Laboratory Science Review"
+}

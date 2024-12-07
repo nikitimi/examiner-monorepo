@@ -1,0 +1,321 @@
+{
+  "author": "Robert R. Harr",
+  "data": [
+    {
+      "chapter": "8.4",
+      "questions": [
+        {
+          "data": [
+            {
+              "choices": [
+                "MacConkey agar",
+                "Blood agar",
+                "TCBS agar",
+                "XLD agar"
+              ],
+              "correctAnswer": {
+                "answer": "TCBS agar",
+                "explanation": "The growth of yellow or green colonies on the selective TCBS agar is dependent on whether the organism ferments sucrose (producing yellow colonies). Vibrio spp. also grow well on 5% sheep blood, chocolate, and MacConkey agars. Enrichment with alkaline peptone broth, pH 8.4, helps recover Vibrio spp. from stool specimens"
+              },
+              "question": "A visitor to South America who returned with diarrhea is suspected of being infected with V. cholerae. Select the best medium for recovery and identification of this organism.",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Vibrio cholerae",
+                "Vibrio parahaemolyticus",
+                "Shigella spp.",
+                "Salmonella spp."
+              ],
+              "correctAnswer": {
+                "answer": "Vibrio parahaemolyticus",
+                "explanation": "V. parahaemolyticus appear as green colonies on TCBS agar, whereas V. cholerae appear as yellow colonies on TCBS. V. cholerae is the only Vibrio species that causes a positive string test result. In the test, a loopful of bacterial colonies is suspended in sodium deoxycholate, 0.5%, on a glass slide. After 60 seconds, the inoculating loop is lifted out of the suspension. V. cholerae forms a long string resembling a string of pearls. Salmonella spp. and Shigella spp. are oxidase negative"
+              },
+              "question": "A curved gram-negative, rod-producing, oxidase-positive colonies on blood agar was recovered from a stool culture. Given the following results, what is the most likely identification? Lysine decarboxylase = + Arginine decarboxylase = Neg Indole = + KIA = Alk/Acid VP = Neg Lactose = Neg Urease = ± String test = Neg TCBS agar = Green colonies",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Pseudomonas aeruginosa",
+                "Campylobacter jejuni",
+                "Campylobacter fetus",
+                "Pseudomonas putida"
+              ],
+              "correctAnswer": {
+                "answer": "Campylobacter jejuni",
+                "explanation": "The only Campylobacter spp. that hydrolyze hippurate are C. jejuni and subsp. doylei. However, some strains of P. aeruginosa grow on agar selective for Campylobacter at 42°C. C. fetus usually will not grow at 42°C but will grow at 25°C and 37°C"
+              },
+              "question": "A gram-negative S-shaped rod recovered from selective media for Campylobacter species gave the following results: Catalase = + Oxidase = + Nitrate Reduction = + Motility = + Hippurate hydrolysis = + Growth at 42°C = + Nalidixic acid = Susceptible Pigment = Neg Grape odor = Neg Cephalothin = Resistant The most likely identification is:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "5% O2, 10% CO2, and 85% N2",
+                "20% O2, 10% CO2, and 70% N2",
+                "20% O2, 20% CO2, and 60% N2",
+                "20% O2, 5% CO2, and 75% N2"
+              ],
+              "correctAnswer": {
+                "answer": "5% O2, 10% CO2, and 85% N2",
+                "explanation": "Campylobacter spp. are best recovered in a microaerophilic atmosphere (reduced O2). The use of a CO2 incubator or candle jar is not recommended because the amount of O2 and CO2 do not permit any but the most aerotolerant Campylobacter to survive. Cultures for Campylobacter should be incubated for 48 to 72 hours before reporting no growth"
+              },
+              "question": "Which atmospheric condition is needed to recover Campylobacter spp. from specimens inoculated onto a Campy-selective agar at 35°C to 37°C and 42°C?",
+              "reference": "Microbiology/Apply knowledge of fundamental biological characteristics/Bacteria/2"
+            },
+            {
+              "choices": [
+                "Catalase, oxidase, and Gram stain",
+                "Catalase, oxidase, and nalidixic acid sensitivity",
+                "Catalase, oxidase, and cephalothin sensitivity",
+                "Urease, nitrate, and hippurate hydrolysis"
+              ],
+              "correctAnswer": {
+                "answer": "Urease, nitrate, and hippurate hydrolysis",
+                "explanation": "H. pylori is found in specimens from gastric secretions and biopsies and has been implicated as a cause of gastric ulcers. It is found only in the mucous-secreting epithelial cells of the stomach. Both H. pylori and C. jejuni are catalase and oxidase positive. However, Helicobacter spp. are urease positive, which differentiates them from Campylobacter spp. Test H. pylori C. jejuni Nitrate reduction Neg + Hippurate hydrolysis Neg + Urease + Neg Cephalothin sensitivity Sensitive Resistant Nalidixic acid sensitivity Resistant Sensitiv"
+              },
+              "question": "Which group of tests best differentiates Helicobacter pylori from C. jejuni?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": ["Urease", "OF glucose", "Oxidase", "Catalase"],
+              "correctAnswer": {
+                "answer": "Oxidase",
+                "explanation": "Aeromonas hydrophilia and other Aeromonas spp. have been implicated in acute diarrheal disease as well as cellulitis and wound infections. Infections usually follow exposure to contaminated soil, water, or food. Aeromonas growing on enteric media are differentiated from the Enterobacteriaceae species by demonstrating that colonies are oxidase positive. The Aeromonas are sometimes overlooked as pathogens because most strains grow on selective enteric agar as lactose fermenters"
+              },
+              "question": "Which of the following tests should be done first to differentiate Aeromonas spp. from the Enterobacteriaceae?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Oxidase",
+                "Indole",
+                "Triple-sugar iron agar",
+                "Urease"
+              ],
+              "correctAnswer": {
+                "answer": "Oxidase",
+                "explanation": "P. shigelloides is an NLF that will resemble Shigella spp. on MacConkey agar. Both are TSI Alk/Acid and urease negative. Plesiomonas produces indole and Shigella usually causes delayed production of indole. However, Plesiomonas is oxidase positive, whereas Shigella spp. are oxidase negative. P. shigelloides has been added to the Enterobacteriaceae family through the use of nucleic acid–based methods and is the only member that is oxidase positive"
+              },
+              "question": "Which is the best rapid test to differentiate P. shigelloides from a Shigella species on selective enteric agar?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Oxidase and motility",
+                "DNase and Voges-Proskauer test",
+                "Indole and lysine decarboxylase",
+                "Growth on MacConkey and blood agar"
+              ],
+              "correctAnswer": {
+                "answer": "DNase and Voges-Proskauer test",
+                "explanation": "Both these bacteria cause diarrhea, grow well on enteric agar, and may be confused with other pathogenic gram-negative rods. Both organisms are positive for oxidase, motility, indole, and lysine decarboxylase. The following reactions are differential: Test A. hydrophilia P. shigelloides β-Hemolysis + Neg on sheep blood agar DNase + Neg Voges-Proskauer + Ne"
+              },
+              "question": "Which are the best two tests to differentiate A. hydrophilia from P. shigelloides?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Aggregatibacter (formerly Actinobacillus spp.)",
+                "Pseudomonas",
+                "Campylobacter",
+                "Vibrio"
+              ],
+              "correctAnswer": {
+                "answer": "Aggregatibacter (formerly Actinobacillus spp.)",
+                "explanation": "Aggregatibacter spp. (formerly Actinobacillus spp.) and formerly Centers for Disease Control and Prevention (CDC) groups HB-3 and HB-4 share many biochemical characteristics of the Haemophilus spp. Infections most often associated with this gram-negative coccobacillus are subacute bacterial endocarditis and periodontal disease (its main habitat is the mouth). The most common human isolate is Aggregatibacter (formerly Actinobacillus) actinomycetemcomitans, which grows slowly on chocolate agar. It is positive for catalase, nitrate reduction, and glucose fermentation. It does not grow on MacConkey agar and is negative for oxidase, urease, indole, X, and V requirements"
+              },
+              "question": "Which genus (in which most species are oxidase and catalase positive) of small gram-negative coccobacilli is associated mainly with animals but may cause endocarditis and bacteremia, as well as wound and dental infections in humans?",
+              "reference": "Microbiology/Apply fundamental biological characteristics/Bacteria/2"
+            },
+            {
+              "choices": [
+                "Gram stain",
+                "Indole",
+                "Anaerobic incubation",
+                "Oxidase"
+              ],
+              "correctAnswer": {
+                "answer": "Indole",
+                "explanation": "C. hominis (indole positive) is a gram-negative coccobacillus biochemically similar to Aggregatibacter (Actinobacillus) spp. (indole negative). Like Aggregatibacter (formerly Actinobacillus) spp., it is a cause of endocarditis. However, Cardiobacterium spp. are positive for cytochrome oxidase and negative for nitrate reduction and catalase, whereas most Aggregatibacter (formerly Actinobacillus) spp. are negative for oxidase and positive for nitrate reduction and catalase. C. hominis will grow on blood agar after 48 to 72 hours in 5% CO2 at 35°C, but Aggregatibacter (formerly Actinobacillus) requires chocolate agar"
+              },
+              "question": "Which of the following tests may be used to differentiate Cardiobacterium hominis from Aggregatibacter spp. (formerly Actinobacillus spp.)?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Eikenella corrodens",
+                "Aggregatibacter (formerly Actinobacillus) spp.",
+                "Cardiobacterium hominis",
+                "Proteus spp."
+              ],
+              "correctAnswer": {
+                "answer": "Eikenella corrodens",
+                "explanation": "E. corrodens is a part of the normal flora of the upper respiratory tract and the mouth. It is often seen after trauma to the head and neck, dental infections, and human bite wounds. It requires blood for growth. The organism causes pits in the agar, where colonies are located. The smell of bleach may be apparent when the plates are uncovered for examination. Aggregatibacter (formerly Actinobacillus) spp. and C. hominis both utilize several carbohydrates, and Proteus spp. are oxidase negative"
+              },
+              "question": "A mixture of slender gram-negative rods and coccobacilli with rounded ends was recovered from blood cultures after a patient’s root canal surgery. Given the following results after 48 hours, what is the most likely organism? Catalase = Neg Ornithine decarboxylase = + Urease = Neg Lysine decarboxylase = + Oxidase = + X and V requirement = Neg Indole = Neg Carbohydrates = Neg (no acid produced) Growth on blood and chocolate agar = + (with pitting of agar) Growth on MacConkey agar = Neg",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Sheep blood agar",
+                "Chocolate agar",
+                "MacConkey agar",
+                "Xylose lysine deoxycholate agar"
+              ],
+              "correctAnswer": {
+                "answer": "Sheep blood agar",
+                "explanation": "Both K. kingae and E. corrodens are gram-negative rods that are oxidase positive and catalase negative. Both grow well on blood and chocolate agars and cause pitting of the media, and neither grows on MacConkey or XLD agar. However, K. kingae strains produce a narrow zone of β-hemolysis on sheep blood agar similar to that of group B streptococci"
+              },
+              "question": "Kingella kingae can best be differentiated from E. corrodens by using which medium?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Middle ear infection",
+                "Endocarditis",
+                "Meningitis",
+                "Urogenital infection"
+              ],
+              "correctAnswer": {
+                "answer": "Endocarditis",
+                "explanation": "Kingella spp. are gram-negative coccobacilli or plump-looking rods. They are part of the normal flora of the upper respiratory and urogenital tracts of humans. Infection is seen primarily in patients having underlying heart disease, poor oral hygiene, or iatrogenic mucosal ulcerations (e.g., radiation therapy), in whom the organism is recovered from blood cultures"
+              },
+              "question": "K. kingae is usually associated with which type of infection?",
+              "reference": "Microbiology/Apply fundamental biological characteristics/Bacteria/1"
+            },
+            {
+              "choices": [
+                "Aggregatibacter (formerly Actinobacillus) spp.",
+                "Eikenella spp.",
+                "Capnocytophaga spp.",
+                "Pseudomonas spp."
+              ],
+              "correctAnswer": {
+                "answer": "Capnocytophaga spp.",
+                "explanation": "The Capnocytophaga species C. gingivalis, C. sputigena, and C. ochracea are part of the normal oropharyngeal flora of humans; however, C. canimorsus and C. cynodegmi (formerly CDC groups DF-2 and DF-2-like bacteria) are associated with infections resulting from dog bite wounds and cat bites as well as scratch wounds"
+              },
+              "question": "Cultures obtained from a dog bite wound produced yellow, tan, and slightly pink colonies on blood and chocolate agar, with a margin of fingerlike projections appearing as a film around the colonies. Given the following results at 24 hours, which is the most likely organism? Oxidase = + Catalase = + Growth on MacConkey agar = Neg Motility = Neg",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Haemophilus spp.",
+                "Pasteurella spp.",
+                "Proteus spp.",
+                "Pseudomonas spp."
+              ],
+              "correctAnswer": {
+                "answer": "Pasteurella spp.",
+                "explanation": "Pasteurella multocida (P. canis) is part of the normal mouth flora of cats and dogs and is frequently recovered from wounds inflicted by them. It produces large amounts of indole and therefore an odor resembling that of colonies of E. coli. Pseudomonas spp. are also catalase and oxidase positive but can be ruled out because it grows on MacConkey agar and does not produce indole"
+              },
+              "question": "Smooth gray colonies showing no hemolytic activity were recovered from an infected cat scratch wound culture; the colonies grew on blood and chocolate agar (a musty odor was noted) but failed to grow on MacConkey agar. The organisms were gram-negative pleomorphic rods that were both catalase and oxidase positive and strongly indole positive. The most likely organism is:",
+              "reference": "Microbiology/Evaluate laboratory data to make identifications/Bacteria/3"
+            },
+            {
+              "choices": [
+                "Chocolate agar",
+                "Blood agar",
+                "MacConkey agar",
+                "Bordet-Gengou agar"
+              ],
+              "correctAnswer": {
+                "answer": "Bordet-Gengou agar",
+                "explanation": "B. pertussis is an oxidase-positive, nonmotile, gram-negative coccobacillus and appears as small, round colonies resembling droplets of mercury on Bordet-Gengou media with sheep blood agar. It is fastidious and does not grow on chocolate or MacConkey agar. However, B. pertussis adapts to blood agar, growing within 3 to 6 days. This organism is the cause of whooping cough, which can be prevented by immunization with the diphtheria, tetanus, pertussis (DPT) vaccine. The DPT vaccine contains diphtheria and tetanus toxoids and killed whole-cell B. pertussis"
+              },
+              "question": "Which media should be used to recover B. pertussis from a nasopharyngeal specimen?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Biphasic Castenada bottles with Brucella broth",
+                "Blood culture bottles with Brucella broth",
+                "Bordet-Gengou agar plates and THIO broth",
+                "Blood culture bottles with THIO broth"
+              ],
+              "correctAnswer": {
+                "answer": "Biphasic Castenada bottles with Brucella broth",
+                "explanation": "Although blood agar will support the growth of Brucella spp., Castenada bottles are the medium of choice. Castenada bottles contain a slant of enriched agar medium that is partially submerged and surrounded by an enriched broth medium. As the specimen is injected into the bottles and mixed, the agar slant is simultaneously coated with the blood (or bone marrow). Brucella is the cause of undulant fever (acquired by ingesting infected, unpasteurized milk products) and is responsible for many cases of fever of unknown origin. Brucella spp. are facultative intracellular (multiply in phagocytic cells) organisms and grow very slowly, usually requiring 4 to 6 weeks for recovery. Brucella melitensis is the most frequently recovered species"
+              },
+              "question": "Which medium is recommended for the recovery of Brucella spp. from blood and bone marrow specimens?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Basic fuchsin and thionin",
+                "Methylene blue and crystal violet",
+                "Carbol fuchsin and iodine",
+                "Safranin and methylene blue"
+              ],
+              "correctAnswer": {
+                "answer": "Basic fuchsin and thionin",
+                "explanation": "B. abortus can be differentiated from B. melitensis by the following reactions: H2S Urease CO2 Requirement Basic Fuchsin Thionin (20 mg) B. melitensis Neg V Neg + growth + growth B. abortus + + +/V + growth (Neg) No growt"
+              },
+              "question": "In addition to CO2 requirements and biochemical characteristics, B. melitensis and Brucella abortus are differentiated by growth on media containing which two dyes?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Leucine and ornithine",
+                "Arginine and lysine",
+                "Cysteine and cystine",
+                "Histidine and tryptophan"
+              ],
+              "correctAnswer": {
+                "answer": "Cysteine and cystine",
+                "explanation": "F. tularensis (the causative agent of tularemia) is a fastidious gram-negative rod that is best recovered from lymph node aspirates and tissue biopsies. It is oxidase negative, nonmotile, and inert biochemically. Cysteine blood agar is the medium of choice, but F. tularensis will grow on commercially prepared chocolate agar because it contains X factor and is supplemented with a growth enrichment (IsoVitaleX) that contains cysteine. F. tularensis may not grow well on MacConkey agar"
+              },
+              "question": "Which of the following amino acids are required for growth of Francisella tularensis?",
+              "reference": "Microbiology/Apply fundamental biological characteristics/Bacteria/1"
+            },
+            {
+              "choices": [
+                "Chocolate agar",
+                "Bordet-Gengou agar",
+                "New yeast extract agar",
+                "Buffered charcoal–yeast extract (CYE) agar"
+              ],
+              "correctAnswer": {
+                "answer": "Buffered charcoal–yeast extract (CYE) agar",
+                "explanation": "L. pneumophila should be recovered on buffered CYE agar. This agar is nonselective but can be made more selective for Legionella spp. by addition of the antibiotics cefamandole, polymixin B, and anisomycin. Any small, glistening, convex colonies on buffered CYE agar after 2 to 3 days of incubation that do not grow on L-cysteine– deficient buffered CYE agar or routine nonselective media should be further tested by the direct fluorescent antibody (DFA) test for confirmation of L. pneumophila. Rapid detection by using enzyme immunoassay (EIA) and immunochromotographic methods in tissue and urine has proven successful, as well as polymerase chain reaction (PCR) for respiratory specimens"
+              },
+              "question": "Which medium is best for recovery of Legionella pneumophila from clinical specimens?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/1"
+            },
+            {
+              "choices": [
+                "Indole and xylose",
+                "Glucose and urease",
+                "Oxidase and catalase",
+                "Aminolevulinic acid (ALA) test and oxidase"
+              ],
+              "correctAnswer": {
+                "answer": "Indole and xylose",
+                "explanation": "Both H. influenzae and H. aegyptius are glucose, urease, oxidase, and catalase positive. H. influenzae (biotype II) is positive for both indole and xylose, whereas H. aegyptius is negative for both tests. Biotype II encompasses 40% to 70% of H. influenzae strains recovered from clinical specimens. H. aegyptius is responsible for epidemics of conjunctivitis in children"
+              },
+              "question": "Haemophilus aegyptius (formerly H. influenzae biogroup aegyptius) causes ocular infections (“pink eye”) and requires X and V factors in the primary medium for growth. H. aegyptius and H. influenzae can further be identified and differentiated by which two tests?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            },
+            {
+              "choices": [
+                "Blood agar made with sheep RBCs",
+                "Blood agar made with horse RBCs",
+                "Chocolate agar",
+                "Xylose agar"
+              ],
+              "correctAnswer": {
+                "answer": "Chocolate agar",
+                "explanation": "The V factor, NAD, must first be released from RBCs before it can be assimilated by Haemophilus spp. Chocolate agar is made by heating blood agar to lyse RBCs. The released NAD is directly available to those Haemophilus species requiring it. Chocolate agar also contains the X factor (hemin). All Haemophilus except H. ducreyi and H. aphrophilus (now called Aggregatibacter aphrophilus) require V factor, whereas X factor is required by H. influenzae, H. haemolyticus, and H. ducreyi"
+              },
+              "question": "Haemophilus species that require the V factor (NAD) are easily recovered on which primary agar plate?",
+              "reference": "Microbiology/Select methods/Reagents/Media/Bacteria/Identification/2"
+            }
+          ],
+          "type": "MULTIPLE_CHOICE"
+        }
+      ],
+      "topic": "Miscellaneous and Fastidious Gram-Negative Rods"
+    }
+  ],
+  "edition": "5th",
+  "title": "Medical Laboratory Science Review"
+}
